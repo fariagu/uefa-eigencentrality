@@ -5,13 +5,16 @@ import csv
 import networkx as nx
 import numpy as np
 import pprint
+import operator
 
 pp = pprint.PrettyPrinter(indent=4)
 
 country_ranking = {}
 club_by_country = {}
-club_list_raw = []
-club_list = []
+club_ranking_legacy_raw = []
+club_ranking_legacy = []
+country_ranking_legacy_raw = []
+country_ranking_legacy = []
 country_list = []
 homeClubs_raw = []
 awayClubs_raw = []
@@ -24,7 +27,8 @@ awayClubs = []
 homeClubsScore = []
 awayClubsScore = []
 
-tree_legacy_ranking = etree.parse("../resources/legacy_ranking.html")
+tree_legacy_ranking_clubs = etree.parse("../resources/legacy_ranking_clubs.html")
+tree_legacy_ranking_countries = etree.parse("../resources/legacy_ranking_countries.html")
 
 trees = [
     etree.parse("../resources/el-2014.html"),
@@ -40,19 +44,33 @@ trees = [
 ]
 
 # transcribing list of clubs and another list with their respective country
-club_list_raw.extend(tree_legacy_ranking.xpath('//a[@class="team-name visible-sm visible-xs"]/text()'))
-# country_list.extend(tree_legacy_ranking.xpath('//td[@class="table_member-country"]/text()'))
+club_ranking_legacy_raw.extend(tree_legacy_ranking_clubs.xpath('//a[@class="team-name visible-sm visible-xs"]/text()'))
+country_ranking_legacy_raw.extend(tree_legacy_ranking_countries.xpath('//span[@class="team-name visible-sm visible-xs"]/text()'))
 
-with open('ranking_clubs_legacy.csv', mode='wb') as club_ranking_legacy_file:
-    writer = csv.writer(club_ranking_legacy_file, delimiter=";")
-    # writer.writerow(['Club']) # Header
-    for club in club_list_raw:
-        # cleaning excess characters
-        club_name = club.split("\n                    ")[1].split("\n        ")[0]
-        writer.writerow([club_name.encode('utf-8')])
+for club in club_ranking_legacy_raw:
+    # cleaning excess characters
+    club_name = club.split("\n                    ")[1].split("\n        ")[0]
+    club_ranking_legacy.append(club_name)
+    # print(club_name)
+
+for country in country_ranking_legacy_raw:
+    # cleaning excess characters
+    country_name = country.split("\n                    ")[1].split("\n        ")[0]
+    country_ranking_legacy.append(country_name)
+
+# pp.pprint(country_ranking_legacy)
+
+# TODO: escrever este ficheiro mas com o numero de lugares de diferenca
+# with open('ranking_clubs_legacy.csv', mode='wb') as club_ranking_legacy_file:
+#     writer = csv.writer(club_ranking_legacy_file, delimiter=";")
+#     # writer.writerow(['Club']) # Header
+#     for club in club_ranking_legacy_raw:
+#         # cleaning excess characters
+#         club_name = club.split("\n                    ")[1].split("\n        ")[0]
+#         writer.writerow([club_name.encode('utf-8')])
 
 # # initializing country_ranking dictionary (not in use: some clubs aren't listed)
-# for club, country in zip(club_list, country_list):
+# for club, country in zip(club_ranking_legacy, country_list):
 #     if len(country_ranking) != 0 and country in country_ranking:
 #         country_ranking[country]['clubs'][club] = 0.0
 #     else:
@@ -60,7 +78,7 @@ with open('ranking_clubs_legacy.csv', mode='wb') as club_ranking_legacy_file:
 
 # Some clubs that played games in the last five years aren't listed in the uefa ranking page:
 # "https://pt.uefa.com/memberassociations/uefarankings/club/#/yr/2019"
-# So the club->country association is made from this manually compile csv file
+# So the club->country association is made from this manually compiled csv file
 with open('../resources/ClubsByCountry.csv', 'rb') as clubs_by_country:
     reader = csv.reader(clubs_by_country, delimiter=';')
     for row in reader:
@@ -161,9 +179,28 @@ with open('ranking_clubs.csv', mode='wb') as club_results_file:
     for node in centrality:
         writer.writerow([node.encode('utf-8'), format(centrality[node], '.8f')])
 
-# write country ranking to csv file
+# simplify country ranking in order to be sorted
+country_ranking_dict = {}
+for key, value in country_ranking.iteritems():
+    score = format(value['eigencentrality'], '.8f')
+    country_ranking_dict[key] = score
+
+# sort countries
+sorted_country_ranking = sorted(country_ranking_dict.items(), key=operator.itemgetter(1))
+sorted_country_ranking.reverse()
+
+# calculate differences
+country_diffs = []
+for i, country_a in enumerate(sorted_country_ranking):
+    for j, country_b in enumerate(country_ranking_legacy):
+        if country_a[0] == country_b.encode('utf-8'):
+            # print(i, j, country_a[0])
+            country_diffs.append(j - i)
+
+# print country ranking to csv
 with open('ranking_countries.csv', mode='wb') as countries_results_file:
     writer = csv.writer(countries_results_file, delimiter=";")
-    writer.writerow(['Country', 'Score'])   # Header
-    for key, value in country_ranking.iteritems():
-        writer.writerow([key, format(value['eigencentrality'], '.8f')])
+    writer.writerow(['Country', 'Score', 'Diff', 'Control'])   # Header
+    for country_a, dif, country_b in zip(sorted_country_ranking, country_diffs, country_ranking_legacy):
+        score = format(value['eigencentrality'], '.8f')
+        writer.writerow([country_a[0], country_a[1], dif, country_b.encode('utf-8')])

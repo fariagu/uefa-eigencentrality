@@ -9,7 +9,7 @@
     </attributes>
     <meta>
       <creator>NetworkX 2.2</creator>
-      <lastmodified>10/01/2019</lastmodified>
+      <lastmodified>11/01/2019</lastmodified>
     </meta>
     <nodes>
       <node id="Shakhter" label="Shakhter">
@@ -1636,7 +1636,7 @@
       </edge>
       <edge id="3" source="Shakhter" target="Skënderbeu" weight="2">
         <attvalues>
-          <attvalue for="1" value="AlbÃ¡nia" />
+          <attvalue for="1" value="AlbÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="4" source="Shakhter" target="PAOK" weight="4">
@@ -1661,7 +1661,7 @@
       </edge>
       <edge id="8" source="H. Kiryat Shmona" target="Liberec" weight="2">
         <attvalues>
-          <attvalue for="1" value="Rep. Checa" />
+          <attvalue for="1" value="RepÃºblica Checa" />
         </attvalues>
       </edge>
       <edge id="9" source="Arouca" target="Heracles" weight="1">
@@ -1846,7 +1846,7 @@
       </edge>
       <edge id="45" source="Sassuolo" target="Luzern" weight="1">
         <attvalues>
-          <attvalue for="1" value="SuiÃ§a" />
+          <attvalue for="1" value="SuÃ­Ã§a" />
         </attvalues>
       </edge>
       <edge id="46" source="Sassuolo" target="Athletic" weight="2">
@@ -2006,12 +2006,12 @@
       </edge>
       <edge id="77" source="Freiburg" target="Liberec" weight="1">
         <attvalues>
-          <attvalue for="1" value="Rep. Checa" />
+          <attvalue for="1" value="RepÃºblica Checa" />
         </attvalues>
       </edge>
       <edge id="78" source="Ruch" target="Metalist" weight="3">
         <attvalues>
-          <attvalue for="1" value="UcrÃ¡nia" />
+          <attvalue for="1" value="UcrÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="79" source="Ruch" target="Esbjerg" weight="1">
@@ -2021,7 +2021,7 @@
       </edge>
       <edge id="80" source="Ermis" target="Young Boys" weight="2">
         <attvalues>
-          <attvalue for="1" value="SuiÃ§a" />
+          <attvalue for="1" value="SuÃ­Ã§a" />
         </attvalues>
       </edge>
       <edge id="81" source="Olimpija Ljubljana" target="Trenčín" weight="2">
@@ -2046,7 +2046,7 @@
       </edge>
       <edge id="85" source="Real Sociedad" target="Shakhtar Donetsk" weight="4">
         <attvalues>
-          <attvalue for="1" value="UcrÃ¡nia" />
+          <attvalue for="1" value="UcrÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="86" source="Real Sociedad" target="Zenit" weight="4">
@@ -2071,7 +2071,7 @@
       </edge>
       <edge id="90" source="Kuban" target="St Gallen" weight="2">
         <attvalues>
-          <attvalue for="1" value="SuiÃ§a" />
+          <attvalue for="1" value="SuÃ­Ã§a" />
         </attvalues>
       </edge>
       <edge id="91" source="Keşla" target="Athletic" weight="3">
@@ -2081,7 +2081,7 @@
       </edge>
       <edge id="92" source="Dinamo Minsk" target="Plzeň" weight="2">
         <attvalues>
-          <attvalue for="1" value="Rep. Checa" />
+          <attvalue for="1" value="RepÃºblica Checa" />
         </attvalues>
       </edge>
       <edge id="93" source="Dinamo Minsk" target="Vojvodina" weight="3">
@@ -2101,7 +2101,7 @@
       </edge>
       <edge id="96" source="Dinamo Minsk" target="Zürich" weight="1">
         <attvalues>
-          <attvalue for="1" value="SuiÃ§a" />
+          <attvalue for="1" value="SuÃ­Ã§a" />
         </attvalues>
       </edge>
       <edge id="97" source="Dinamo Minsk" target="AEK Larnaca" weight="3">
@@ -2151,12 +2151,12 @@
       </edge>
       <edge id="106" source="Udinese" target="Liberec" weight="3">
         <attvalues>
-          <attvalue for="1" value="Rep. Checa" />
+          <attvalue for="1" value="RepÃºblica Checa" />
         </attvalues>
       </edge>
       <edge id="107" source="Marítimo" target="Dynamo Kyiv" weight="3">
         <attvalues>
-          <attvalue for="1" value="UcrÃ¡nia" />
+          <attvalue for="1" value="UcrÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="108" source="Marítimo" target="Botev Plovdiv" weight="1">
@@ -2196,7 +2196,7 @@
       </edge>
       <edge id="115" source="Liverpool" target="Basel" weight="3">
         <attvalues>
-          <attvalue for="1" value="SuiÃ§a" />
+          <attvalue for="1" value="SuÃ­Ã§a" />
         </attvalues>
       </edge>
       <edge id="116" source="Liverpool" target="Roma" weight="2">
@@ -2226,7 +2226,7 @@
       </edge>
       <edge id="121" source="Liverpool" target="Sion" weight="2">
         <attvalues>
-          <attvalue for="1" value="SuiÃ§a" />
+          <attvalue for="1" value="SuÃ­Ã§a" />
         </attvalues>
       </edge>
       <edge id="122" source="Liverpool" target="Bordeaux" weight="1">
@@ -2346,7 +2346,7 @@
       </edge>
       <edge id="145" source="Young Boys" target="Shakhtar Donetsk" weight="2">
         <attvalues>
-          <attvalue for="1" value="UcrÃ¡nia" />
+          <attvalue for="1" value="UcrÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="146" source="Young Boys" target="Astana" weight="1">
@@ -2356,17 +2356,17 @@
       </edge>
       <edge id="147" source="Young Boys" target="Dynamo Kyiv" weight="5">
         <attvalues>
-          <attvalue for="1" value="UcrÃ¡nia" />
+          <attvalue for="1" value="UcrÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="148" source="Young Boys" target="Skënderbeu" weight="1">
         <attvalues>
-          <attvalue for="1" value="AlbÃ¡nia" />
+          <attvalue for="1" value="AlbÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="149" source="Young Boys" target="Sparta Praha" weight="2">
         <attvalues>
-          <attvalue for="1" value="Rep. Checa" />
+          <attvalue for="1" value="RepÃºblica Checa" />
         </attvalues>
       </edge>
       <edge id="150" source="Young Boys" target="CSKA Moskva" weight="4">
@@ -2426,7 +2426,7 @@
       </edge>
       <edge id="161" source="Aktobe" target="Dynamo Kyiv" weight="4">
         <attvalues>
-          <attvalue for="1" value="UcrÃ¡nia" />
+          <attvalue for="1" value="UcrÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="162" source="Aktobe" target="FCSB" weight="3">
@@ -2456,7 +2456,7 @@
       </edge>
       <edge id="167" source="Spartak Moskva" target="St Gallen" weight="3">
         <attvalues>
-          <attvalue for="1" value="SuiÃ§a" />
+          <attvalue for="1" value="SuÃ­Ã§a" />
         </attvalues>
       </edge>
       <edge id="168" source="Spartak Moskva" target="Athletic" weight="2">
@@ -2561,7 +2561,7 @@
       </edge>
       <edge id="188" source="Man. United" target="Basel" weight="2">
         <attvalues>
-          <attvalue for="1" value="SuiÃ§a" />
+          <attvalue for="1" value="SuÃ­Ã§a" />
         </attvalues>
       </edge>
       <edge id="189" source="Man. United" target="Midtjylland" weight="2">
@@ -2596,7 +2596,7 @@
       </edge>
       <edge id="195" source="Man. United" target="Shakhtar Donetsk" weight="1">
         <attvalues>
-          <attvalue for="1" value="UcrÃ¡nia" />
+          <attvalue for="1" value="UcrÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="196" source="Man. United" target="Bayern" weight="3">
@@ -2676,7 +2676,7 @@
       </edge>
       <edge id="211" source="Bayern" target="Shakhtar Donetsk" weight="1">
         <attvalues>
-          <attvalue for="1" value="UcrÃ¡nia" />
+          <attvalue for="1" value="UcrÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="212" source="Bayern" target="Benfica" weight="1">
@@ -2696,7 +2696,7 @@
       </edge>
       <edge id="215" source="Žilina" target="Vorskla" weight="2">
         <attvalues>
-          <attvalue for="1" value="UcrÃ¡nia" />
+          <attvalue for="1" value="UcrÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="216" source="Žilina" target="Rijeka" weight="1">
@@ -2711,7 +2711,7 @@
       </edge>
       <edge id="218" source="Astra" target="Plzeň" weight="1">
         <attvalues>
-          <attvalue for="1" value="Rep. Checa" />
+          <attvalue for="1" value="RepÃºblica Checa" />
         </attvalues>
       </edge>
       <edge id="219" source="Astra" target="Celtic" weight="3">
@@ -2741,7 +2741,7 @@
       </edge>
       <edge id="224" source="Astra" target="Olexandriya" weight="3">
         <attvalues>
-          <attvalue for="1" value="UcrÃ¡nia" />
+          <attvalue for="1" value="UcrÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="225" source="Astra" target="Lyon" weight="2">
@@ -2966,12 +2966,12 @@
       </edge>
       <edge id="269" source="Malmö" target="Vardar" weight="3">
         <attvalues>
-          <attvalue for="1" value="MacedÃ³nia" />
+          <attvalue for="1" value="ARJ MacedÃ³nia" />
         </attvalues>
       </edge>
       <edge id="270" source="Malmö" target="Sparta Praha" weight="2">
         <attvalues>
-          <attvalue for="1" value="Rep. Checa" />
+          <attvalue for="1" value="RepÃºblica Checa" />
         </attvalues>
       </edge>
       <edge id="271" source="Malmö" target="Real Madrid" weight="4">
@@ -2996,12 +2996,12 @@
       </edge>
       <edge id="275" source="Malmö" target="Žalgiris" weight="1">
         <attvalues>
-          <attvalue for="1" value="LituÃ¡nia" />
+          <attvalue for="1" value="LituÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="276" source="Malmö" target="Shakhtar Donetsk" weight="2">
         <attvalues>
-          <attvalue for="1" value="UcrÃ¡nia" />
+          <attvalue for="1" value="UcrÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="277" source="Malmö" target="Swansea" weight="1">
@@ -3031,12 +3031,12 @@
       </edge>
       <edge id="282" source="Napoli" target="Dnipro" weight="3">
         <attvalues>
-          <attvalue for="1" value="UcrÃ¡nia" />
+          <attvalue for="1" value="UcrÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="283" source="Napoli" target="Young Boys" weight="2">
         <attvalues>
-          <attvalue for="1" value="SuiÃ§a" />
+          <attvalue for="1" value="SuÃ­Ã§a" />
         </attvalues>
       </edge>
       <edge id="284" source="Napoli" target="Villarreal" weight="3">
@@ -3066,7 +3066,7 @@
       </edge>
       <edge id="289" source="Napoli" target="Sparta Praha" weight="1">
         <attvalues>
-          <attvalue for="1" value="Rep. Checa" />
+          <attvalue for="1" value="RepÃºblica Checa" />
         </attvalues>
       </edge>
       <edge id="290" source="Napoli" target="Real Madrid" weight="4">
@@ -3091,7 +3091,7 @@
       </edge>
       <edge id="294" source="Napoli" target="Shakhtar Donetsk" weight="2">
         <attvalues>
-          <attvalue for="1" value="UcrÃ¡nia" />
+          <attvalue for="1" value="UcrÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="295" source="Napoli" target="Swansea" weight="1">
@@ -3101,7 +3101,7 @@
       </edge>
       <edge id="296" source="Napoli" target="Dynamo Kyiv" weight="1">
         <attvalues>
-          <attvalue for="1" value="UcrÃ¡nia" />
+          <attvalue for="1" value="UcrÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="297" source="Lazio" target="Ludogorets" weight="3">
@@ -3111,7 +3111,7 @@
       </edge>
       <edge id="298" source="Lazio" target="Dnipro" weight="1">
         <attvalues>
-          <attvalue for="1" value="UcrÃ¡nia" />
+          <attvalue for="1" value="UcrÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="299" source="Lazio" target="St-Étienne" weight="1">
@@ -3141,7 +3141,7 @@
       </edge>
       <edge id="304" source="Lazio" target="Sparta Praha" weight="3">
         <attvalues>
-          <attvalue for="1" value="Rep. Checa" />
+          <attvalue for="1" value="RepÃºblica Checa" />
         </attvalues>
       </edge>
       <edge id="305" source="Lazio" target="Leverkusen" weight="2">
@@ -3161,7 +3161,7 @@
       </edge>
       <edge id="308" source="Lazio" target="Dynamo Kyiv" weight="1">
         <attvalues>
-          <attvalue for="1" value="UcrÃ¡nia" />
+          <attvalue for="1" value="UcrÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="309" source="Lazio" target="Apollon" weight="1">
@@ -3171,7 +3171,7 @@
       </edge>
       <edge id="310" source="Lyon" target="Plzeň" weight="2">
         <attvalues>
-          <attvalue for="1" value="Rep. Checa" />
+          <attvalue for="1" value="RepÃºblica Checa" />
         </attvalues>
       </edge>
       <edge id="311" source="Lyon" target="Atalanta" weight="3">
@@ -3256,7 +3256,7 @@
       </edge>
       <edge id="327" source="Lyon" target="Chornomorets Odesa" weight="1">
         <attvalues>
-          <attvalue for="1" value="UcrÃ¡nia" />
+          <attvalue for="1" value="UcrÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="328" source="Zlín" target="Lokomotiv Moskva" weight="4">
@@ -3566,7 +3566,7 @@
       </edge>
       <edge id="389" source="Charleroi" target="Zorya" weight="4">
         <attvalues>
-          <attvalue for="1" value="UcrÃ¡nia" />
+          <attvalue for="1" value="UcrÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="390" source="Petrolul" target="Swansea" weight="2">
@@ -3581,7 +3581,7 @@
       </edge>
       <edge id="392" source="H. Beer-Sheva" target="Plzeň" weight="4">
         <attvalues>
-          <attvalue for="1" value="Rep. Checa" />
+          <attvalue for="1" value="RepÃºblica Checa" />
         </attvalues>
       </edge>
       <edge id="393" source="H. Beer-Sheva" target="Southampton" weight="2">
@@ -3591,7 +3591,7 @@
       </edge>
       <edge id="394" source="H. Beer-Sheva" target="Lugano" weight="2">
         <attvalues>
-          <attvalue for="1" value="SuiÃ§a" />
+          <attvalue for="1" value="SuÃ­Ã§a" />
         </attvalues>
       </edge>
       <edge id="395" source="H. Beer-Sheva" target="Sheriff" weight="1">
@@ -3616,7 +3616,7 @@
       </edge>
       <edge id="399" source="H. Beer-Sheva" target="Sparta Praha" weight="4">
         <attvalues>
-          <attvalue for="1" value="Rep. Checa" />
+          <attvalue for="1" value="RepÃºblica Checa" />
         </attvalues>
       </edge>
       <edge id="400" source="H. Beer-Sheva" target="Maribor" weight="2">
@@ -3641,7 +3641,7 @@
       </edge>
       <edge id="404" source="Marseille" target="Liberec" weight="2">
         <attvalues>
-          <attvalue for="1" value="Rep. Checa" />
+          <attvalue for="1" value="RepÃºblica Checa" />
         </attvalues>
       </edge>
       <edge id="405" source="Marseille" target="Athletic" weight="3">
@@ -3731,7 +3731,7 @@
       </edge>
       <edge id="422" source="Crvena zvezda" target="Chornomorets Odesa" weight="1">
         <attvalues>
-          <attvalue for="1" value="UcrÃ¡nia" />
+          <attvalue for="1" value="UcrÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="423" source="Östersund" target="Athletic" weight="3">
@@ -3781,7 +3781,7 @@
       </edge>
       <edge id="432" source="Häcken" target="Thun" weight="2">
         <attvalues>
-          <attvalue for="1" value="SuiÃ§a" />
+          <attvalue for="1" value="SuÃ­Ã§a" />
         </attvalues>
       </edge>
       <edge id="433" source="AaB" target="FCSB" weight="2">
@@ -3791,7 +3791,7 @@
       </edge>
       <edge id="434" source="AaB" target="Dynamo Kyiv" weight="2">
         <attvalues>
-          <attvalue for="1" value="UcrÃ¡nia" />
+          <attvalue for="1" value="UcrÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="435" source="AaB" target="Club Brugge" weight="4">
@@ -3831,7 +3831,7 @@
       </edge>
       <edge id="442" source="Kukës" target="Metalurh Donetsk" weight="2">
         <attvalues>
-          <attvalue for="1" value="UcrÃ¡nia" />
+          <attvalue for="1" value="UcrÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="443" source="Zürich" target="FCSB" weight="2">
@@ -3841,7 +3841,7 @@
       </edge>
       <edge id="444" source="Zürich" target="Liberec" weight="2">
         <attvalues>
-          <attvalue for="1" value="Rep. Checa" />
+          <attvalue for="1" value="RepÃºblica Checa" />
         </attvalues>
       </edge>
       <edge id="445" source="Zürich" target="Villarreal" weight="5">
@@ -3901,7 +3901,7 @@
       </edge>
       <edge id="456" source="Sevilla" target="Basel" weight="1">
         <attvalues>
-          <attvalue for="1" value="SuiÃ§a" />
+          <attvalue for="1" value="SuÃ­Ã§a" />
         </attvalues>
       </edge>
       <edge id="457" source="Sevilla" target="Estoril" weight="1">
@@ -3956,7 +3956,7 @@
       </edge>
       <edge id="467" source="Sevilla" target="Shakhtar Donetsk" weight="1">
         <attvalues>
-          <attvalue for="1" value="UcrÃ¡nia" />
+          <attvalue for="1" value="UcrÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="468" source="Sevilla" target="Zenit" weight="1">
@@ -3971,7 +3971,7 @@
       </edge>
       <edge id="470" source="Sevilla" target="Liberec" weight="2">
         <attvalues>
-          <attvalue for="1" value="Rep. Checa" />
+          <attvalue for="1" value="RepÃºblica Checa" />
         </attvalues>
       </edge>
       <edge id="471" source="Sevilla" target="Athletic" weight="2">
@@ -4006,7 +4006,7 @@
       </edge>
       <edge id="477" source="Tottenham" target="Dnipro" weight="2">
         <attvalues>
-          <attvalue for="1" value="UcrÃ¡nia" />
+          <attvalue for="1" value="UcrÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="478" source="Tottenham" target="Leverkusen" weight="3">
@@ -4071,7 +4071,7 @@
       </edge>
       <edge id="490" source="Sporting CP" target="Plzeň" weight="2">
         <attvalues>
-          <attvalue for="1" value="Rep. Checa" />
+          <attvalue for="1" value="RepÃºblica Checa" />
         </attvalues>
       </edge>
       <edge id="491" source="Sporting CP" target="Legia" weight="2">
@@ -4111,7 +4111,7 @@
       </edge>
       <edge id="498" source="Sporting CP" target="Skënderbeu" weight="2">
         <attvalues>
-          <attvalue for="1" value="AlbÃ¡nia" />
+          <attvalue for="1" value="AlbÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="499" source="Sporting CP" target="Atlético" weight="2">
@@ -4236,7 +4236,7 @@
       </edge>
       <edge id="523" source="Fenerbahçe" target="Vardar" weight="4">
         <attvalues>
-          <attvalue for="1" value="MacedÃ³nia" />
+          <attvalue for="1" value="ARJ MacedÃ³nia" />
         </attvalues>
       </edge>
       <edge id="524" source="Fenerbahçe" target="Salzburg" weight="1">
@@ -4266,12 +4266,12 @@
       </edge>
       <edge id="529" source="Fenerbahçe" target="Zorya" weight="1">
         <attvalues>
-          <attvalue for="1" value="UcrÃ¡nia" />
+          <attvalue for="1" value="UcrÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="530" source="Fenerbahçe" target="Shakhtar Donetsk" weight="3">
         <attvalues>
-          <attvalue for="1" value="UcrÃ¡nia" />
+          <attvalue for="1" value="UcrÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="531" source="Fenerbahçe" target="Krasnodar" weight="3">
@@ -4291,12 +4291,12 @@
       </edge>
       <edge id="534" source="Maribor" target="Plzeň" weight="4">
         <attvalues>
-          <attvalue for="1" value="Rep. Checa" />
+          <attvalue for="1" value="RepÃºblica Checa" />
         </attvalues>
       </edge>
       <edge id="535" source="Maribor" target="Zrinjski" weight="2">
         <attvalues>
-          <attvalue for="1" value="Bosnia Herzegovina" />
+          <attvalue for="1" value="BÃ³snia e Herzegovina" />
         </attvalues>
       </edge>
       <edge id="536" source="Maribor" target="Celtic" weight="1">
@@ -4416,7 +4416,7 @@
       </edge>
       <edge id="559" source="Benfica" target="Basel" weight="4">
         <attvalues>
-          <attvalue for="1" value="SuiÃ§a" />
+          <attvalue for="1" value="SuÃ­Ã§a" />
         </attvalues>
       </edge>
       <edge id="560" source="Benfica" target="Atlético" weight="2">
@@ -4496,7 +4496,7 @@
       </edge>
       <edge id="575" source="HJK" target="Rabotnicki" weight="1">
         <attvalues>
-          <attvalue for="1" value="MacedÃ³nia" />
+          <attvalue for="1" value="ARJ MacedÃ³nia" />
         </attvalues>
       </edge>
       <edge id="576" source="HJK" target="Torino" weight="2">
@@ -4541,7 +4541,7 @@
       </edge>
       <edge id="584" source="Rostov" target="Sparta Praha" weight="1">
         <attvalues>
-          <attvalue for="1" value="Rep. Checa" />
+          <attvalue for="1" value="RepÃºblica Checa" />
         </attvalues>
       </edge>
       <edge id="585" source="Rostov" target="Ajax" weight="1">
@@ -4606,12 +4606,12 @@
       </edge>
       <edge id="597" source="BATE" target="Olexandriya" weight="1">
         <attvalues>
-          <attvalue for="1" value="UcrÃ¡nia" />
+          <attvalue for="1" value="UcrÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="598" source="BATE" target="Skënderbeu" weight="2">
         <attvalues>
-          <attvalue for="1" value="AlbÃ¡nia" />
+          <attvalue for="1" value="AlbÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="599" source="BATE" target="Arsenal" weight="4">
@@ -4636,7 +4636,7 @@
       </edge>
       <edge id="603" source="BATE" target="Slavia Praha" weight="2">
         <attvalues>
-          <attvalue for="1" value="Rep. Checa" />
+          <attvalue for="1" value="RepÃºblica Checa" />
         </attvalues>
       </edge>
       <edge id="604" source="BATE" target="Alashkert" weight="1">
@@ -4651,7 +4651,7 @@
       </edge>
       <edge id="606" source="BATE" target="Dundalk" weight="3">
         <attvalues>
-          <attvalue for="1" value="Irlanda" />
+          <attvalue for="1" value="RepÃºblica da Irlanda" />
         </attvalues>
       </edge>
       <edge id="607" source="BATE" target="Slovan Bratislava" weight="1">
@@ -4661,7 +4661,7 @@
       </edge>
       <edge id="608" source="BATE" target="Shakhtar Donetsk" weight="4">
         <attvalues>
-          <attvalue for="1" value="UcrÃ¡nia" />
+          <attvalue for="1" value="UcrÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="609" source="BATE" target="Crvena zvezda" weight="2">
@@ -4756,7 +4756,7 @@
       </edge>
       <edge id="627" source="Dinamo Zagreb" target="Skënderbeu" weight="2">
         <attvalues>
-          <attvalue for="1" value="AlbÃ¡nia" />
+          <attvalue for="1" value="AlbÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="628" source="Dinamo Zagreb" target="Celtic" weight="2">
@@ -4811,7 +4811,7 @@
       </edge>
       <edge id="638" source="Dinamo Zagreb" target="Chornomorets Odesa" weight="4">
         <attvalues>
-          <attvalue for="1" value="UcrÃ¡nia" />
+          <attvalue for="1" value="UcrÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="639" source="Dortmund" target="Liverpool" weight="3">
@@ -4951,7 +4951,7 @@
       </edge>
       <edge id="666" source="Beşiktaş" target="Dynamo Kyiv" weight="3">
         <attvalues>
-          <attvalue for="1" value="UcrÃ¡nia" />
+          <attvalue for="1" value="UcrÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="667" source="Beşiktaş" target="Tottenham" weight="1">
@@ -4991,7 +4991,7 @@
       </edge>
       <edge id="674" source="Club Brugge" target="Dnipro" weight="3">
         <attvalues>
-          <attvalue for="1" value="UcrÃ¡nia" />
+          <attvalue for="1" value="UcrÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="675" source="Club Brugge" target="Napoli" weight="4">
@@ -5101,7 +5101,7 @@
       </edge>
       <edge id="696" source="Rosenborg" target="Dnipro" weight="4">
         <attvalues>
-          <attvalue for="1" value="UcrÃ¡nia" />
+          <attvalue for="1" value="UcrÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="697" source="Rosenborg" target="St-Étienne" weight="2">
@@ -5121,7 +5121,7 @@
       </edge>
       <edge id="700" source="Rosenborg" target="Vardar" weight="1">
         <attvalues>
-          <attvalue for="1" value="MacedÃ³nia" />
+          <attvalue for="1" value="ARJ MacedÃ³nia" />
         </attvalues>
       </edge>
       <edge id="701" source="Rosenborg" target="Norrköping" weight="2">
@@ -5146,7 +5146,7 @@
       </edge>
       <edge id="705" source="Rosenborg" target="Dundalk" weight="1">
         <attvalues>
-          <attvalue for="1" value="Irlanda" />
+          <attvalue for="1" value="RepÃºblica da Irlanda" />
         </attvalues>
       </edge>
       <edge id="706" source="Rosenborg" target="APOEL" weight="2">
@@ -5166,7 +5166,7 @@
       </edge>
       <edge id="709" source="Split" target="Chornomorets Odesa" weight="1">
         <attvalues>
-          <attvalue for="1" value="UcrÃ¡nia" />
+          <attvalue for="1" value="UcrÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="710" source="İstanbul Başakşehir" target="Ludogorets" weight="1">
@@ -5201,7 +5201,7 @@
       </edge>
       <edge id="716" source="İstanbul Başakşehir" target="Shakhtar Donetsk" weight="4">
         <attvalues>
-          <attvalue for="1" value="UcrÃ¡nia" />
+          <attvalue for="1" value="UcrÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="717" source="İstanbul Başakşehir" target="AZ" weight="4">
@@ -5266,12 +5266,12 @@
       </edge>
       <edge id="729" source="AEK" target="Dynamo Kyiv" weight="2">
         <attvalues>
-          <attvalue for="1" value="UcrÃ¡nia" />
+          <attvalue for="1" value="UcrÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="730" source="Swansea" target="St Gallen" weight="2">
         <attvalues>
-          <attvalue for="1" value="SuiÃ§a" />
+          <attvalue for="1" value="SuÃ­Ã§a" />
         </attvalues>
       </edge>
       <edge id="731" source="Swansea" target="Napoli" weight="3">
@@ -5311,12 +5311,12 @@
       </edge>
       <edge id="738" source="Debrecen" target="Cliftonville" weight="1">
         <attvalues>
-          <attvalue for="1" value="Irl. Norte" />
+          <attvalue for="1" value="Irlanda do Norte" />
         </attvalues>
       </edge>
       <edge id="739" source="Debrecen" target="Young Boys" weight="3">
         <attvalues>
-          <attvalue for="1" value="SuiÃ§a" />
+          <attvalue for="1" value="SuÃ­Ã§a" />
         </attvalues>
       </edge>
       <edge id="740" source="AEL" target="Austria Wien" weight="3">
@@ -5356,7 +5356,7 @@
       </edge>
       <edge id="747" source="Krasnodar" target="Sparta Praha" weight="4">
         <attvalues>
-          <attvalue for="1" value="Rep. Checa" />
+          <attvalue for="1" value="RepÃºblica Checa" />
         </attvalues>
       </edge>
       <edge id="748" source="Krasnodar" target="LOSC" weight="2">
@@ -5401,7 +5401,7 @@
       </edge>
       <edge id="756" source="Krasnodar" target="Partizani" weight="1">
         <attvalues>
-          <attvalue for="1" value="AlbÃ¡nia" />
+          <attvalue for="1" value="AlbÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="757" source="Krasnodar" target="HJK" weight="1">
@@ -5456,7 +5456,7 @@
       </edge>
       <edge id="767" source="Neftçi" target="Skënderbeu" weight="3">
         <attvalues>
-          <attvalue for="1" value="AlbÃ¡nia" />
+          <attvalue for="1" value="AlbÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="768" source="Neftçi" target="Partizan" weight="4">
@@ -5551,7 +5551,7 @@
       </edge>
       <edge id="786" source="Legia" target="Zrinjski" weight="1">
         <attvalues>
-          <attvalue for="1" value="Bosnia Herzegovina" />
+          <attvalue for="1" value="BÃ³snia e Herzegovina" />
         </attvalues>
       </edge>
       <edge id="787" source="Legia" target="Molde" weight="2">
@@ -5576,7 +5576,7 @@
       </edge>
       <edge id="791" source="Legia" target="Dundalk" weight="1">
         <attvalues>
-          <attvalue for="1" value="Irlanda" />
+          <attvalue for="1" value="RepÃºblica da Irlanda" />
         </attvalues>
       </edge>
       <edge id="792" source="Legia" target="Astana" weight="2">
@@ -5586,7 +5586,7 @@
       </edge>
       <edge id="793" source="Legia" target="St Patrick's" weight="1">
         <attvalues>
-          <attvalue for="1" value="Irlanda" />
+          <attvalue for="1" value="RepÃºblica da Irlanda" />
         </attvalues>
       </edge>
       <edge id="794" source="Legia" target="Apollon" weight="2">
@@ -5616,7 +5616,7 @@
       </edge>
       <edge id="799" source="Kalju" target="Plzeň" weight="4">
         <attvalues>
-          <attvalue for="1" value="Rep. Checa" />
+          <attvalue for="1" value="RepÃºblica Checa" />
         </attvalues>
       </edge>
       <edge id="800" source="Kalju" target="Osmanlıspor" weight="4">
@@ -5631,7 +5631,7 @@
       </edge>
       <edge id="802" source="Kalju" target="Dnipro" weight="4">
         <attvalues>
-          <attvalue for="1" value="UcrÃ¡nia" />
+          <attvalue for="1" value="UcrÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="803" source="Astana" target="BATE" weight="1">
@@ -5641,7 +5641,7 @@
       </edge>
       <edge id="804" source="Astana" target="Young Boys" weight="3">
         <attvalues>
-          <attvalue for="1" value="SuiÃ§a" />
+          <attvalue for="1" value="SuÃ­Ã§a" />
         </attvalues>
       </edge>
       <edge id="805" source="Astana" target="Villarreal" weight="8">
@@ -5656,7 +5656,7 @@
       </edge>
       <edge id="807" source="Astana" target="Slavia Praha" weight="1">
         <attvalues>
-          <attvalue for="1" value="Rep. Checa" />
+          <attvalue for="1" value="RepÃºblica Checa" />
         </attvalues>
       </edge>
       <edge id="808" source="Astana" target="Atlético" weight="3">
@@ -5686,7 +5686,7 @@
       </edge>
       <edge id="813" source="Astana" target="Žalgiris" weight="1">
         <attvalues>
-          <attvalue for="1" value="LituÃ¡nia" />
+          <attvalue for="1" value="LituÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="814" source="Astana" target="Maribor" weight="2">
@@ -5721,12 +5721,12 @@
       </edge>
       <edge id="820" source="Olympiacos" target="Dnipro" weight="3">
         <attvalues>
-          <attvalue for="1" value="UcrÃ¡nia" />
+          <attvalue for="1" value="UcrÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="821" source="Olympiacos" target="Young Boys" weight="1">
         <attvalues>
-          <attvalue for="1" value="SuiÃ§a" />
+          <attvalue for="1" value="SuÃ­Ã§a" />
         </attvalues>
       </edge>
       <edge id="822" source="Olympiacos" target="Paris" weight="4">
@@ -5821,7 +5821,7 @@
       </edge>
       <edge id="840" source="Rio Ave" target="Slavia Praha" weight="1">
         <attvalues>
-          <attvalue for="1" value="Rep. Checa" />
+          <attvalue for="1" value="RepÃºblica Checa" />
         </attvalues>
       </edge>
       <edge id="841" source="Rio Ave" target="Göteborg" weight="1">
@@ -5836,7 +5836,7 @@
       </edge>
       <edge id="843" source="Rio Ave" target="Dynamo Kyiv" weight="4">
         <attvalues>
-          <attvalue for="1" value="UcrÃ¡nia" />
+          <attvalue for="1" value="UcrÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="844" source="Plzeň" target="Lyon" weight="2">
@@ -5891,7 +5891,7 @@
       </edge>
       <edge id="854" source="Plzeň" target="Lugano" weight="2">
         <attvalues>
-          <attvalue for="1" value="SuiÃ§a" />
+          <attvalue for="1" value="SuÃ­Ã§a" />
         </attvalues>
       </edge>
       <edge id="855" source="Plzeň" target="Rapid Wien" weight="4">
@@ -5916,7 +5916,7 @@
       </edge>
       <edge id="859" source="Plzeň" target="Shakhtar Donetsk" weight="1">
         <attvalues>
-          <attvalue for="1" value="UcrÃ¡nia" />
+          <attvalue for="1" value="UcrÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="860" source="Plzeň" target="Bayern" weight="4">
@@ -5941,7 +5941,7 @@
       </edge>
       <edge id="864" source="Southampton" target="Sparta Praha" weight="2">
         <attvalues>
-          <attvalue for="1" value="Rep. Checa" />
+          <attvalue for="1" value="RepÃºblica Checa" />
         </attvalues>
       </edge>
       <edge id="865" source="Southampton" target="H. Beer-Sheva" weight="2">
@@ -5966,7 +5966,7 @@
       </edge>
       <edge id="869" source="EB/Streymur" target="Dinamo Tbilisi" weight="4">
         <attvalues>
-          <attvalue for="1" value="Georgia" />
+          <attvalue for="1" value="GeÃ³rgia" />
         </attvalues>
       </edge>
       <edge id="870" source="Rudar Pljevlja" target="Qarabağ" weight="3">
@@ -5976,7 +5976,7 @@
       </edge>
       <edge id="871" source="Vojvodina" target="Plzeň" weight="4">
         <attvalues>
-          <attvalue for="1" value="Rep. Checa" />
+          <attvalue for="1" value="RepÃºblica Checa" />
         </attvalues>
       </edge>
       <edge id="872" source="Vojvodina" target="Sampdoria" weight="2">
@@ -6026,7 +6026,7 @@
       </edge>
       <edge id="881" source="Salzburg" target="Basel" weight="3">
         <attvalues>
-          <attvalue for="1" value="SuiÃ§a" />
+          <attvalue for="1" value="SuÃ­Ã§a" />
         </attvalues>
       </edge>
       <edge id="882" source="Salzburg" target="Vitória SC" weight="1">
@@ -6181,7 +6181,7 @@
       </edge>
       <edge id="912" source="Atromitos" target="Sarajevo" weight="2">
         <attvalues>
-          <attvalue for="1" value="Bosnia Herzegovina" />
+          <attvalue for="1" value="BÃ³snia e Herzegovina" />
         </attvalues>
       </edge>
       <edge id="913" source="Atromitos" target="Fenerbahçe" weight="4">
@@ -6221,7 +6221,7 @@
       </edge>
       <edge id="920" source="Man. City" target="Basel" weight="2">
         <attvalues>
-          <attvalue for="1" value="SuiÃ§a" />
+          <attvalue for="1" value="SuÃ­Ã§a" />
         </attvalues>
       </edge>
       <edge id="921" source="Man. City" target="Barcelona" weight="10">
@@ -6251,7 +6251,7 @@
       </edge>
       <edge id="926" source="Man. City" target="Shakhtar Donetsk" weight="2">
         <attvalues>
-          <attvalue for="1" value="UcrÃ¡nia" />
+          <attvalue for="1" value="UcrÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="927" source="Man. City" target="Bayern" weight="4">
@@ -6261,7 +6261,7 @@
       </edge>
       <edge id="928" source="Man. City" target="Dynamo Kyiv" weight="1">
         <attvalues>
-          <attvalue for="1" value="UcrÃ¡nia" />
+          <attvalue for="1" value="UcrÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="929" source="Man. City" target="Mönchengladbach" weight="1">
@@ -6301,7 +6301,7 @@
       </edge>
       <edge id="936" source="Slovan Bratislava" target="Young Boys" weight="4">
         <attvalues>
-          <attvalue for="1" value="SuiÃ§a" />
+          <attvalue for="1" value="SuÃ­Ã§a" />
         </attvalues>
       </edge>
       <edge id="937" source="Slovan Bratislava" target="BATE" weight="3">
@@ -6311,7 +6311,7 @@
       </edge>
       <edge id="938" source="Slovan Bratislava" target="Sparta Praha" weight="4">
         <attvalues>
-          <attvalue for="1" value="Rep. Checa" />
+          <attvalue for="1" value="RepÃºblica Checa" />
         </attvalues>
       </edge>
       <edge id="939" source="Slovan Bratislava" target="Krasnodar" weight="3">
@@ -6321,7 +6321,7 @@
       </edge>
       <edge id="940" source="Shakhtar Donetsk" target="Plzeň" weight="3">
         <attvalues>
-          <attvalue for="1" value="Rep. Checa" />
+          <attvalue for="1" value="RepÃºblica Checa" />
         </attvalues>
       </edge>
       <edge id="941" source="Shakhtar Donetsk" target="Celta" weight="2">
@@ -6346,7 +6346,7 @@
       </edge>
       <edge id="945" source="Shakhtar Donetsk" target="Young Boys" weight="2">
         <attvalues>
-          <attvalue for="1" value="SuiÃ§a" />
+          <attvalue for="1" value="SuÃ­Ã§a" />
         </attvalues>
       </edge>
       <edge id="946" source="Shakhtar Donetsk" target="Napoli" weight="2">
@@ -6526,7 +6526,7 @@
       </edge>
       <edge id="981" source="Mönchengladbach" target="Zürich" weight="1">
         <attvalues>
-          <attvalue for="1" value="SuiÃ§a" />
+          <attvalue for="1" value="SuÃ­Ã§a" />
         </attvalues>
       </edge>
       <edge id="982" source="Mönchengladbach" target="Sevilla" weight="6">
@@ -6581,7 +6581,7 @@
       </edge>
       <edge id="992" source="St-Étienne" target="Dnipro" weight="3">
         <attvalues>
-          <attvalue for="1" value="UcrÃ¡nia" />
+          <attvalue for="1" value="UcrÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="993" source="St-Étienne" target="Lazio" weight="3">
@@ -6591,7 +6591,7 @@
       </edge>
       <edge id="994" source="St-Étienne" target="Basel" weight="2">
         <attvalues>
-          <attvalue for="1" value="SuiÃ§a" />
+          <attvalue for="1" value="SuÃ­Ã§a" />
         </attvalues>
       </edge>
       <edge id="995" source="St-Étienne" target="Esbjerg" weight="4">
@@ -6651,7 +6651,7 @@
       </edge>
       <edge id="1006" source="AEK Larnaca" target="Plzeň" weight="3">
         <attvalues>
-          <attvalue for="1" value="Rep. Checa" />
+          <attvalue for="1" value="RepÃºblica Checa" />
         </attvalues>
       </edge>
       <edge id="1007" source="AEK Larnaca" target="Bordeaux" weight="4">
@@ -6666,7 +6666,7 @@
       </edge>
       <edge id="1009" source="AEK Larnaca" target="Liberec" weight="4">
         <attvalues>
-          <attvalue for="1" value="Rep. Checa" />
+          <attvalue for="1" value="RepÃºblica Checa" />
         </attvalues>
       </edge>
       <edge id="1010" source="Arsenal" target="Napoli" weight="2">
@@ -6766,7 +6766,7 @@
       </edge>
       <edge id="1029" source="Milsami" target="Skënderbeu" weight="4">
         <attvalues>
-          <attvalue for="1" value="AlbÃ¡nia" />
+          <attvalue for="1" value="AlbÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="1030" source="Milsami" target="St-Étienne" weight="5">
@@ -6876,7 +6876,7 @@
       </edge>
       <edge id="1051" source="Sion" target="Sūduva" weight="3">
         <attvalues>
-          <attvalue for="1" value="LituÃ¡nia" />
+          <attvalue for="1" value="LituÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="1052" source="Brommapojkarna" target="Torino" weight="2">
@@ -6956,7 +6956,7 @@
       </edge>
       <edge id="1067" source="PSV" target="Chornomorets Odesa" weight="2">
         <attvalues>
-          <attvalue for="1" value="UcrÃ¡nia" />
+          <attvalue for="1" value="UcrÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="1068" source="Budućnost Podgorica" target="Partizan" weight="3">
@@ -6981,12 +6981,12 @@
       </edge>
       <edge id="1072" source="Tre Penne" target="TNS" weight="4">
         <attvalues>
-          <attvalue for="1" value="P. Gales" />
+          <attvalue for="1" value="PaÃ­s de Gales" />
         </attvalues>
       </edge>
       <edge id="1073" source="Lugano" target="Plzeň" weight="2">
         <attvalues>
-          <attvalue for="1" value="Rep. Checa" />
+          <attvalue for="1" value="RepÃºblica Checa" />
         </attvalues>
       </edge>
       <edge id="1074" source="Lugano" target="H. Beer-Sheva" weight="2">
@@ -7011,7 +7011,7 @@
       </edge>
       <edge id="1078" source="Sheriff" target="Zlín" weight="1">
         <attvalues>
-          <attvalue for="1" value="Rep. Checa" />
+          <attvalue for="1" value="RepÃºblica Checa" />
         </attvalues>
       </edge>
       <edge id="1079" source="Sheriff" target="København" weight="3">
@@ -7066,7 +7066,7 @@
       </edge>
       <edge id="1089" source="Sheriff" target="Kukës" weight="2">
         <attvalues>
-          <attvalue for="1" value="AlbÃ¡nia" />
+          <attvalue for="1" value="AlbÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="1090" source="Sheriff" target="Tottenham" weight="4">
@@ -7146,7 +7146,7 @@
       </edge>
       <edge id="1105" source="Belenenses" target="Basel" weight="2">
         <attvalues>
-          <attvalue for="1" value="SuiÃ§a" />
+          <attvalue for="1" value="SuÃ­Ã§a" />
         </attvalues>
       </edge>
       <edge id="1106" source="Belenenses" target="Lech" weight="2">
@@ -7171,7 +7171,7 @@
       </edge>
       <edge id="1110" source="Estoril" target="Liberec" weight="4">
         <attvalues>
-          <attvalue for="1" value="Rep. Checa" />
+          <attvalue for="1" value="RepÃºblica Checa" />
         </attvalues>
       </edge>
       <edge id="1111" source="Estoril" target="Sevilla" weight="3">
@@ -7206,12 +7206,12 @@
       </edge>
       <edge id="1117" source="FH" target="Dundalk" weight="2">
         <attvalues>
-          <attvalue for="1" value="Irlanda" />
+          <attvalue for="1" value="RepÃºblica da Irlanda" />
         </attvalues>
       </edge>
       <edge id="1118" source="FH" target="Vikingur" weight="1">
         <attvalues>
-          <attvalue for="1" value="FaroÃ©" />
+          <attvalue for="1" value="Ilhas FaroÃ©" />
         </attvalues>
       </edge>
       <edge id="1119" source="FH" target="Braga" weight="4">
@@ -7271,7 +7271,7 @@
       </edge>
       <edge id="1130" source="PAOK" target="Metalist" weight="3">
         <attvalues>
-          <attvalue for="1" value="UcrÃ¡nia" />
+          <attvalue for="1" value="UcrÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="1131" source="PAOK" target="Spartak Trnava" weight="1">
@@ -7316,7 +7316,7 @@
       </edge>
       <edge id="1139" source="Guingamp" target="Dynamo Kyiv" weight="2">
         <attvalues>
-          <attvalue for="1" value="UcrÃ¡nia" />
+          <attvalue for="1" value="UcrÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="1140" source="Guingamp" target="Dinamo Minsk" weight="1">
@@ -7346,7 +7346,7 @@
       </edge>
       <edge id="1145" source="Schalke" target="Sparta Praha" weight="2">
         <attvalues>
-          <attvalue for="1" value="Rep. Checa" />
+          <attvalue for="1" value="RepÃºblica Checa" />
         </attvalues>
       </edge>
       <edge id="1146" source="Schalke" target="Real Madrid" weight="6">
@@ -7366,7 +7366,7 @@
       </edge>
       <edge id="1149" source="Schalke" target="Shakhtar Donetsk" weight="3">
         <attvalues>
-          <attvalue for="1" value="UcrÃ¡nia" />
+          <attvalue for="1" value="UcrÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="1150" source="Schalke" target="PAOK" weight="2">
@@ -7436,7 +7436,7 @@
       </edge>
       <edge id="1163" source="Europa" target="TNS" weight="2">
         <attvalues>
-          <attvalue for="1" value="P. Gales" />
+          <attvalue for="1" value="PaÃ­s de Gales" />
         </attvalues>
       </edge>
       <edge id="1164" source="Valletta" target="Qarabağ" weight="4">
@@ -7451,17 +7451,17 @@
       </edge>
       <edge id="1166" source="Valletta" target="B36" weight="2">
         <attvalues>
-          <attvalue for="1" value="FaroÃ©" />
+          <attvalue for="1" value="Ilhas FaroÃ©" />
         </attvalues>
       </edge>
       <edge id="1167" source="FCSB" target="Lugano" weight="2">
         <attvalues>
-          <attvalue for="1" value="SuiÃ§a" />
+          <attvalue for="1" value="SuÃ­Ã§a" />
         </attvalues>
       </edge>
       <edge id="1168" source="FCSB" target="Dinamo Tbilisi" weight="1">
         <attvalues>
-          <attvalue for="1" value="Georgia" />
+          <attvalue for="1" value="GeÃ³rgia" />
         </attvalues>
       </edge>
       <edge id="1169" source="FCSB" target="Trenčín" weight="2">
@@ -7471,7 +7471,7 @@
       </edge>
       <edge id="1170" source="FCSB" target="Basel" weight="2">
         <attvalues>
-          <attvalue for="1" value="SuiÃ§a" />
+          <attvalue for="1" value="SuÃ­Ã§a" />
         </attvalues>
       </edge>
       <edge id="1171" source="FCSB" target="H. Beer-Sheva" weight="1">
@@ -7511,7 +7511,7 @@
       </edge>
       <edge id="1178" source="FCSB" target="Dynamo Kyiv" weight="4">
         <attvalues>
-          <attvalue for="1" value="UcrÃ¡nia" />
+          <attvalue for="1" value="UcrÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="1179" source="FCSB" target="Rio Ave" weight="1">
@@ -7521,7 +7521,7 @@
       </edge>
       <edge id="1180" source="FCSB" target="Plzeň" weight="3">
         <attvalues>
-          <attvalue for="1" value="Rep. Checa" />
+          <attvalue for="1" value="RepÃºblica Checa" />
         </attvalues>
       </edge>
       <edge id="1181" source="FCSB" target="Lazio" weight="2">
@@ -7556,12 +7556,12 @@
       </edge>
       <edge id="1187" source="FCSB" target="Zürich" weight="2">
         <attvalues>
-          <attvalue for="1" value="SuiÃ§a" />
+          <attvalue for="1" value="SuÃ­Ã§a" />
         </attvalues>
       </edge>
       <edge id="1188" source="FCSB" target="Sparta Praha" weight="1">
         <attvalues>
-          <attvalue for="1" value="Rep. Checa" />
+          <attvalue for="1" value="RepÃºblica Checa" />
         </attvalues>
       </edge>
       <edge id="1189" source="FCSB" target="Osmanlıspor" weight="2">
@@ -7686,7 +7686,7 @@
       </edge>
       <edge id="1213" source="Molde" target="Zorya" weight="2">
         <attvalues>
-          <attvalue for="1" value="UcrÃ¡nia" />
+          <attvalue for="1" value="UcrÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="1214" source="Galatasaray" target="Astana" weight="2">
@@ -7776,7 +7776,7 @@
       </edge>
       <edge id="1231" source="Everton" target="Dynamo Kyiv" weight="2">
         <attvalues>
-          <attvalue for="1" value="UcrÃ¡nia" />
+          <attvalue for="1" value="UcrÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="1232" source="Everton" target="Apollon" weight="1">
@@ -7846,17 +7846,17 @@
       </edge>
       <edge id="1245" source="Groningen" target="Liberec" weight="3">
         <attvalues>
-          <attvalue for="1" value="Rep. Checa" />
+          <attvalue for="1" value="RepÃºblica Checa" />
         </attvalues>
       </edge>
       <edge id="1246" source="Lusitans" target="EB/Streymur" weight="3">
         <attvalues>
-          <attvalue for="1" value="FaroÃ©" />
+          <attvalue for="1" value="Ilhas FaroÃ©" />
         </attvalues>
       </edge>
       <edge id="1247" source="Trepça’89" target="Vikingur" weight="4">
         <attvalues>
-          <attvalue for="1" value="FaroÃ©" />
+          <attvalue for="1" value="Ilhas FaroÃ©" />
         </attvalues>
       </edge>
       <edge id="1248" source="Flora" target="Lincoln Red Imps" weight="2">
@@ -7931,7 +7931,7 @@
       </edge>
       <edge id="1262" source="Gent" target="Shakhtar Donetsk" weight="4">
         <attvalues>
-          <attvalue for="1" value="UcrÃ¡nia" />
+          <attvalue for="1" value="UcrÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="1263" source="Gent" target="Tottenham" weight="1">
@@ -8051,7 +8051,7 @@
       </edge>
       <edge id="1286" source="Partizan" target="Plzeň" weight="3">
         <attvalues>
-          <attvalue for="1" value="Rep. Checa" />
+          <attvalue for="1" value="RepÃºblica Checa" />
         </attvalues>
       </edge>
       <edge id="1287" source="Partizan" target="Vidi" weight="1">
@@ -8081,12 +8081,12 @@
       </edge>
       <edge id="1292" source="Partizan" target="Young Boys" weight="1">
         <attvalues>
-          <attvalue for="1" value="SuiÃ§a" />
+          <attvalue for="1" value="SuÃ­Ã§a" />
         </attvalues>
       </edge>
       <edge id="1293" source="Partizan" target="Skënderbeu" weight="1">
         <attvalues>
-          <attvalue for="1" value="AlbÃ¡nia" />
+          <attvalue for="1" value="AlbÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="1294" source="Partizan" target="Ludogorets" weight="6">
@@ -8096,7 +8096,7 @@
       </edge>
       <edge id="1295" source="Partizan" target="Thun" weight="2">
         <attvalues>
-          <attvalue for="1" value="SuiÃ§a" />
+          <attvalue for="1" value="SuÃ­Ã§a" />
         </attvalues>
       </edge>
       <edge id="1296" source="Partizan" target="Shirak" weight="2">
@@ -8121,7 +8121,7 @@
       </edge>
       <edge id="1300" source="Partizan" target="Dynamo Kyiv" weight="4">
         <attvalues>
-          <attvalue for="1" value="UcrÃ¡nia" />
+          <attvalue for="1" value="UcrÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="1301" source="Partizan" target="Tottenham" weight="3">
@@ -8201,7 +8201,7 @@
       </edge>
       <edge id="1316" source="Anderlecht" target="Shakhtar Donetsk" weight="4">
         <attvalues>
-          <attvalue for="1" value="UcrÃ¡nia" />
+          <attvalue for="1" value="UcrÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="1317" source="Anderlecht" target="Galatasaray" weight="1">
@@ -8226,7 +8226,7 @@
       </edge>
       <edge id="1321" source="SønderjyskE" target="Sparta Praha" weight="3">
         <attvalues>
-          <attvalue for="1" value="Rep. Checa" />
+          <attvalue for="1" value="RepÃºblica Checa" />
         </attvalues>
       </edge>
       <edge id="1322" source="SønderjyskE" target="Zagłębie" weight="1">
@@ -8241,7 +8241,7 @@
       </edge>
       <edge id="1324" source="Sūduva" target="Sion" weight="1">
         <attvalues>
-          <attvalue for="1" value="SuiÃ§a" />
+          <attvalue for="1" value="SuÃ­Ã§a" />
         </attvalues>
       </edge>
       <edge id="1325" source="Nacional" target="Dinamo Minsk" weight="4">
@@ -8261,7 +8261,7 @@
       </edge>
       <edge id="1328" source="Chelsea" target="Basel" weight="4">
         <attvalues>
-          <attvalue for="1" value="SuiÃ§a" />
+          <attvalue for="1" value="SuÃ­Ã§a" />
         </attvalues>
       </edge>
       <edge id="1329" source="Chelsea" target="Atlético" weight="4">
@@ -8291,7 +8291,7 @@
       </edge>
       <edge id="1334" source="Chelsea" target="Dynamo Kyiv" weight="1">
         <attvalues>
-          <attvalue for="1" value="UcrÃ¡nia" />
+          <attvalue for="1" value="UcrÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="1335" source="Chelsea" target="Schalke" weight="1">
@@ -8301,7 +8301,7 @@
       </edge>
       <edge id="1336" source="M. Tel-Aviv" target="Plzeň" weight="2">
         <attvalues>
-          <attvalue for="1" value="Rep. Checa" />
+          <attvalue for="1" value="RepÃºblica Checa" />
         </attvalues>
       </edge>
       <edge id="1337" source="M. Tel-Aviv" target="Porto" weight="4">
@@ -8311,7 +8311,7 @@
       </edge>
       <edge id="1338" source="M. Tel-Aviv" target="Slavia Praha" weight="4">
         <attvalues>
-          <attvalue for="1" value="Rep. Checa" />
+          <attvalue for="1" value="RepÃºblica Checa" />
         </attvalues>
       </edge>
       <edge id="1339" source="M. Tel-Aviv" target="AZ" weight="1">
@@ -8321,7 +8321,7 @@
       </edge>
       <edge id="1340" source="M. Tel-Aviv" target="Dundalk" weight="2">
         <attvalues>
-          <attvalue for="1" value="Irlanda" />
+          <attvalue for="1" value="RepÃºblica da Irlanda" />
         </attvalues>
       </edge>
       <edge id="1341" source="M. Tel-Aviv" target="APOEL" weight="2">
@@ -8336,7 +8336,7 @@
       </edge>
       <edge id="1343" source="M. Tel-Aviv" target="Basel" weight="8">
         <attvalues>
-          <attvalue for="1" value="SuiÃ§a" />
+          <attvalue for="1" value="SuÃ­Ã§a" />
         </attvalues>
       </edge>
       <edge id="1344" source="M. Tel-Aviv" target="Chelsea" weight="4">
@@ -8356,7 +8356,7 @@
       </edge>
       <edge id="1347" source="M. Tel-Aviv" target="Dynamo Kyiv" weight="4">
         <attvalues>
-          <attvalue for="1" value="UcrÃ¡nia" />
+          <attvalue for="1" value="UcrÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="1348" source="M. Tel-Aviv" target="Maribor" weight="3">
@@ -8426,7 +8426,7 @@
       </edge>
       <edge id="1361" source="Lincoln Red Imps" target="HB" weight="3">
         <attvalues>
-          <attvalue for="1" value="FaroÃ©" />
+          <attvalue for="1" value="Ilhas FaroÃ©" />
         </attvalues>
       </edge>
       <edge id="1362" source="Lincoln Red Imps" target="FC Santa Coloma" weight="1">
@@ -8541,7 +8541,7 @@
       </edge>
       <edge id="1384" source="Athletic" target="Shakhtar Donetsk" weight="1">
         <attvalues>
-          <attvalue for="1" value="UcrÃ¡nia" />
+          <attvalue for="1" value="UcrÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="1385" source="Athletic" target="Žilina" weight="2">
@@ -8591,7 +8591,7 @@
       </edge>
       <edge id="1394" source="Athletic" target="Zorya" weight="2">
         <attvalues>
-          <attvalue for="1" value="UcrÃ¡nia" />
+          <attvalue for="1" value="UcrÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="1395" source="Athletic" target="Keşla" weight="1">
@@ -8631,7 +8631,7 @@
       </edge>
       <edge id="1402" source="Trabzonspor" target="Rabotnicki" weight="3">
         <attvalues>
-          <attvalue for="1" value="MacedÃ³nia" />
+          <attvalue for="1" value="ARJ MacedÃ³nia" />
         </attvalues>
       </edge>
       <edge id="1403" source="Trabzonspor" target="Legia" weight="4">
@@ -8696,7 +8696,7 @@
       </edge>
       <edge id="1415" source="Bordeaux" target="Sion" weight="3">
         <attvalues>
-          <attvalue for="1" value="SuiÃ§a" />
+          <attvalue for="1" value="SuÃ­Ã§a" />
         </attvalues>
       </edge>
       <edge id="1416" source="Bordeaux" target="Kairat" weight="2">
@@ -8711,7 +8711,7 @@
       </edge>
       <edge id="1418" source="Trakai" target="Shkëndija" weight="2">
         <attvalues>
-          <attvalue for="1" value="MacedÃ³nia" />
+          <attvalue for="1" value="ARJ MacedÃ³nia" />
         </attvalues>
       </edge>
       <edge id="1419" source="Rabotnicki" target="Trabzonspor" weight="1">
@@ -8746,7 +8746,7 @@
       </edge>
       <edge id="1425" source="Sparta Praha" target="Young Boys" weight="2">
         <attvalues>
-          <attvalue for="1" value="SuiÃ§a" />
+          <attvalue for="1" value="SuÃ­Ã§a" />
         </attvalues>
       </edge>
       <edge id="1426" source="Sparta Praha" target="Lazio" weight="1">
@@ -8766,7 +8766,7 @@
       </edge>
       <edge id="1429" source="Sparta Praha" target="Thun" weight="1">
         <attvalues>
-          <attvalue for="1" value="SuiÃ§a" />
+          <attvalue for="1" value="SuÃ­Ã§a" />
         </attvalues>
       </edge>
       <edge id="1430" source="Sparta Praha" target="Rostov" weight="3">
@@ -8816,7 +8816,7 @@
       </edge>
       <edge id="1439" source="CSKA Moskva" target="Plzeň" weight="2">
         <attvalues>
-          <attvalue for="1" value="Rep. Checa" />
+          <attvalue for="1" value="RepÃºblica Checa" />
         </attvalues>
       </edge>
       <edge id="1440" source="CSKA Moskva" target="Lyon" weight="2">
@@ -8846,7 +8846,7 @@
       </edge>
       <edge id="1445" source="CSKA Moskva" target="Basel" weight="2">
         <attvalues>
-          <attvalue for="1" value="SuiÃ§a" />
+          <attvalue for="1" value="SuÃ­Ã§a" />
         </attvalues>
       </edge>
       <edge id="1446" source="CSKA Moskva" target="Arsenal" weight="3">
@@ -8856,7 +8856,7 @@
       </edge>
       <edge id="1447" source="CSKA Moskva" target="Sparta Praha" weight="1">
         <attvalues>
-          <attvalue for="1" value="Rep. Checa" />
+          <attvalue for="1" value="RepÃºblica Checa" />
         </attvalues>
       </edge>
       <edge id="1448" source="CSKA Moskva" target="Leverkusen" weight="2">
@@ -8956,12 +8956,12 @@
       </edge>
       <edge id="1467" source="Braga" target="Sion" weight="1">
         <attvalues>
-          <attvalue for="1" value="SuiÃ§a" />
+          <attvalue for="1" value="SuÃ­Ã§a" />
         </attvalues>
       </edge>
       <edge id="1468" source="Braga" target="Shakhtar Donetsk" weight="8">
         <attvalues>
-          <attvalue for="1" value="UcrÃ¡nia" />
+          <attvalue for="1" value="UcrÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="1469" source="Braga" target="Marseille" weight="4">
@@ -9006,7 +9006,7 @@
       </edge>
       <edge id="1477" source="La Fiorita" target="Linfield" weight="3">
         <attvalues>
-          <attvalue for="1" value="Irl. Norte" />
+          <attvalue for="1" value="Irlanda do Norte" />
         </attvalues>
       </edge>
       <edge id="1478" source="La Fiorita" target="Levadia" weight="4">
@@ -9031,7 +9031,7 @@
       </edge>
       <edge id="1482" source="Crusaders" target="Skënderbeu" weight="2">
         <attvalues>
-          <attvalue for="1" value="AlbÃ¡nia" />
+          <attvalue for="1" value="AlbÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="1483" source="Crusaders" target="Levadia" weight="2">
@@ -9056,7 +9056,7 @@
       </edge>
       <edge id="1487" source="Vidi" target="TNS" weight="1">
         <attvalues>
-          <attvalue for="1" value="P. Gales" />
+          <attvalue for="1" value="PaÃ­s de Gales" />
         </attvalues>
       </edge>
       <edge id="1488" source="Vidi" target="Lech" weight="4">
@@ -9091,7 +9091,7 @@
       </edge>
       <edge id="1494" source="Paços Ferreira" target="Dnipro" weight="4">
         <attvalues>
-          <attvalue for="1" value="UcrÃ¡nia" />
+          <attvalue for="1" value="UcrÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="1495" source="Paços Ferreira" target="Zenit" weight="4">
@@ -9146,7 +9146,7 @@
       </edge>
       <edge id="1505" source="Porto" target="Basel" weight="1">
         <attvalues>
-          <attvalue for="1" value="SuiÃ§a" />
+          <attvalue for="1" value="SuÃ­Ã§a" />
         </attvalues>
       </edge>
       <edge id="1506" source="Porto" target="Atlético" weight="4">
@@ -9156,7 +9156,7 @@
       </edge>
       <edge id="1507" source="Porto" target="Dynamo Kyiv" weight="3">
         <attvalues>
-          <attvalue for="1" value="UcrÃ¡nia" />
+          <attvalue for="1" value="UcrÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="1508" source="Porto" target="Leicester" weight="2">
@@ -9176,7 +9176,7 @@
       </edge>
       <edge id="1511" source="Porto" target="Shakhtar Donetsk" weight="2">
         <attvalues>
-          <attvalue for="1" value="UcrÃ¡nia" />
+          <attvalue for="1" value="UcrÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="1512" source="Porto" target="Bayern" weight="2">
@@ -9246,7 +9246,7 @@
       </edge>
       <edge id="1525" source="Leverkusen" target="Shakhtar Donetsk" weight="1">
         <attvalues>
-          <attvalue for="1" value="UcrÃ¡nia" />
+          <attvalue for="1" value="UcrÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="1526" source="Leverkusen" target="Tottenham" weight="1">
@@ -9271,7 +9271,7 @@
       </edge>
       <edge id="1530" source="Roma" target="Plzeň" weight="1">
         <attvalues>
-          <attvalue for="1" value="Rep. Checa" />
+          <attvalue for="1" value="RepÃºblica Checa" />
         </attvalues>
       </edge>
       <edge id="1531" source="Roma" target="Porto" weight="3">
@@ -9326,7 +9326,7 @@
       </edge>
       <edge id="1541" source="Roma" target="Shakhtar Donetsk" weight="2">
         <attvalues>
-          <attvalue for="1" value="UcrÃ¡nia" />
+          <attvalue for="1" value="UcrÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="1542" source="Roma" target="Man. City" weight="3">
@@ -9406,12 +9406,12 @@
       </edge>
       <edge id="1557" source="Ajax" target="Dnipro" weight="2">
         <attvalues>
-          <attvalue for="1" value="UcrÃ¡nia" />
+          <attvalue for="1" value="UcrÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="1558" source="Ajax" target="Jablonec" weight="1">
         <attvalues>
-          <attvalue for="1" value="Rep. Checa" />
+          <attvalue for="1" value="RepÃºblica Checa" />
         </attvalues>
       </edge>
       <edge id="1559" source="Ajax" target="Legia" weight="1">
@@ -9481,7 +9481,7 @@
       </edge>
       <edge id="1572" source="Lech" target="Basel" weight="8">
         <attvalues>
-          <attvalue for="1" value="SuiÃ§a" />
+          <attvalue for="1" value="SuÃ­Ã§a" />
         </attvalues>
       </edge>
       <edge id="1573" source="Lech" target="Fiorentina" weight="2">
@@ -9536,7 +9536,7 @@
       </edge>
       <edge id="1583" source="Rubin" target="Rabotnicki" weight="1">
         <attvalues>
-          <attvalue for="1" value="MacedÃ³nia" />
+          <attvalue for="1" value="ARJ MacedÃ³nia" />
         </attvalues>
       </edge>
       <edge id="1584" source="Rubin" target="Betis" weight="3">
@@ -9551,7 +9551,7 @@
       </edge>
       <edge id="1586" source="Rubin" target="Sion" weight="2">
         <attvalues>
-          <attvalue for="1" value="SuiÃ§a" />
+          <attvalue for="1" value="SuÃ­Ã§a" />
         </attvalues>
       </edge>
       <edge id="1587" source="Rubin" target="Maribor" weight="1">
@@ -9566,7 +9566,7 @@
       </edge>
       <edge id="1589" source="Spartak Trnava" target="Zürich" weight="3">
         <attvalues>
-          <attvalue for="1" value="SuiÃ§a" />
+          <attvalue for="1" value="SuÃ­Ã§a" />
         </attvalues>
       </edge>
       <edge id="1590" source="Spartak Trnava" target="PAOK" weight="1">
@@ -9631,7 +9631,7 @@
       </edge>
       <edge id="1602" source="Valencia" target="Basel" weight="2">
         <attvalues>
-          <attvalue for="1" value="SuiÃ§a" />
+          <attvalue for="1" value="SuÃ­Ã§a" />
         </attvalues>
       </edge>
       <edge id="1603" source="Valencia" target="Monaco" weight="2">
@@ -9651,7 +9651,7 @@
       </edge>
       <edge id="1606" source="Valencia" target="Dynamo Kyiv" weight="1">
         <attvalues>
-          <attvalue for="1" value="UcrÃ¡nia" />
+          <attvalue for="1" value="UcrÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="1607" source="Valencia" target="Zenit" weight="4">
@@ -9741,7 +9741,7 @@
       </edge>
       <edge id="1624" source="Ludogorets" target="Basel" weight="8">
         <attvalues>
-          <attvalue for="1" value="SuiÃ§a" />
+          <attvalue for="1" value="SuÃ­Ã§a" />
         </attvalues>
       </edge>
       <edge id="1625" source="Ludogorets" target="Hoffenheim" weight="1">
@@ -9791,17 +9791,17 @@
       </edge>
       <edge id="1634" source="Ludogorets" target="Žalgiris" weight="2">
         <attvalues>
-          <attvalue for="1" value="LituÃ¡nia" />
+          <attvalue for="1" value="LituÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="1635" source="Ludogorets" target="Chornomorets Odesa" weight="1">
         <attvalues>
-          <attvalue for="1" value="UcrÃ¡nia" />
+          <attvalue for="1" value="UcrÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="1636" source="Ludogorets" target="Plzeň" weight="1">
         <attvalues>
-          <attvalue for="1" value="Rep. Checa" />
+          <attvalue for="1" value="RepÃºblica Checa" />
         </attvalues>
       </edge>
       <edge id="1637" source="Ludogorets" target="Lazio" weight="1">
@@ -9821,7 +9821,7 @@
       </edge>
       <edge id="1640" source="Ludogorets" target="Sūduva" weight="1">
         <attvalues>
-          <attvalue for="1" value="LituÃ¡nia" />
+          <attvalue for="1" value="LituÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="1641" source="Ludogorets" target="Crvena zvezda" weight="1">
@@ -9906,7 +9906,7 @@
       </edge>
       <edge id="1657" source="Shkëndija" target="Mladá Boleslav" weight="2">
         <attvalues>
-          <attvalue for="1" value="Rep. Checa" />
+          <attvalue for="1" value="RepÃºblica Checa" />
         </attvalues>
       </edge>
       <edge id="1658" source="Rijeka" target="Lyon" weight="3">
@@ -9986,7 +9986,7 @@
       </edge>
       <edge id="1673" source="Thun" target="Sparta Praha" weight="3">
         <attvalues>
-          <attvalue for="1" value="Rep. Checa" />
+          <attvalue for="1" value="RepÃºblica Checa" />
         </attvalues>
       </edge>
       <edge id="1674" source="Thun" target="Rapid Wien" weight="2">
@@ -10001,7 +10001,7 @@
       </edge>
       <edge id="1676" source="Thun" target="Dynamo Kyiv" weight="4">
         <attvalues>
-          <attvalue for="1" value="UcrÃ¡nia" />
+          <attvalue for="1" value="UcrÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="1677" source="Thun" target="Genk" weight="4">
@@ -10021,7 +10021,7 @@
       </edge>
       <edge id="1680" source="Celta" target="Shakhtar Donetsk" weight="2">
         <attvalues>
-          <attvalue for="1" value="UcrÃ¡nia" />
+          <attvalue for="1" value="UcrÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="1681" source="Celta" target="Standard Liège" weight="2">
@@ -10041,7 +10041,7 @@
       </edge>
       <edge id="1684" source="Osmanlıspor" target="Zürich" weight="2">
         <attvalues>
-          <attvalue for="1" value="SuiÃ§a" />
+          <attvalue for="1" value="SuÃ­Ã§a" />
         </attvalues>
       </edge>
       <edge id="1685" source="Osmanlıspor" target="Olympiacos" weight="3">
@@ -10076,7 +10076,7 @@
       </edge>
       <edge id="1691" source="Skënderbeu" target="Young Boys" weight="3">
         <attvalues>
-          <attvalue for="1" value="SuiÃ§a" />
+          <attvalue for="1" value="SuÃ­Ã§a" />
         </attvalues>
       </edge>
       <edge id="1692" source="Skënderbeu" target="Sporting CP" weight="2">
@@ -10096,7 +10096,7 @@
       </edge>
       <edge id="1695" source="Skënderbeu" target="Crusaders" weight="2">
         <attvalues>
-          <attvalue for="1" value="Irl. Norte" />
+          <attvalue for="1" value="Irlanda do Norte" />
         </attvalues>
       </edge>
       <edge id="1696" source="Skënderbeu" target="Dinamo Zagreb" weight="6">
@@ -10111,7 +10111,7 @@
       </edge>
       <edge id="1698" source="Skënderbeu" target="Dynamo Kyiv" weight="2">
         <attvalues>
-          <attvalue for="1" value="UcrÃ¡nia" />
+          <attvalue for="1" value="UcrÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="1699" source="Skënderbeu" target="Neftçi" weight="1">
@@ -10121,7 +10121,7 @@
       </edge>
       <edge id="1700" source="Skënderbeu" target="Chornomorets Odesa" weight="2">
         <attvalues>
-          <attvalue for="1" value="UcrÃ¡nia" />
+          <attvalue for="1" value="UcrÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="1701" source="Alashkert" target="FC Santa Coloma" weight="2">
@@ -10136,7 +10136,7 @@
       </edge>
       <edge id="1703" source="Alashkert" target="Dinamo Tbilisi" weight="3">
         <attvalues>
-          <attvalue for="1" value="Georgia" />
+          <attvalue for="1" value="GeÃ³rgia" />
         </attvalues>
       </edge>
       <edge id="1704" source="St Johnstone" target="Minsk" weight="2">
@@ -10201,7 +10201,7 @@
       </edge>
       <edge id="1716" source="Qarabağ" target="Plzeň" weight="2">
         <attvalues>
-          <attvalue for="1" value="Rep. Checa" />
+          <attvalue for="1" value="RepÃºblica Checa" />
         </attvalues>
       </edge>
       <edge id="1717" source="Qarabağ" target="Celtic" weight="3">
@@ -10226,12 +10226,12 @@
       </edge>
       <edge id="1721" source="Qarabağ" target="Dnipro" weight="2">
         <attvalues>
-          <attvalue for="1" value="UcrÃ¡nia" />
+          <attvalue for="1" value="UcrÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="1722" source="Qarabağ" target="Liberec" weight="3">
         <attvalues>
-          <attvalue for="1" value="Rep. Checa" />
+          <attvalue for="1" value="RepÃºblica Checa" />
         </attvalues>
       </edge>
       <edge id="1723" source="Qarabağ" target="Salzburg" weight="2">
@@ -10331,7 +10331,7 @@
       </edge>
       <edge id="1742" source="Rapid Wien" target="Thun" weight="2">
         <attvalues>
-          <attvalue for="1" value="SuiÃ§a" />
+          <attvalue for="1" value="SuÃ­Ã§a" />
         </attvalues>
       </edge>
       <edge id="1743" source="Rapid Wien" target="Ajax" weight="1">
@@ -10356,12 +10356,12 @@
       </edge>
       <edge id="1747" source="Rapid Wien" target="Shakhtar Donetsk" weight="3">
         <attvalues>
-          <attvalue for="1" value="UcrÃ¡nia" />
+          <attvalue for="1" value="UcrÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="1748" source="Rapid Wien" target="Dynamo Kyiv" weight="3">
         <attvalues>
-          <attvalue for="1" value="UcrÃ¡nia" />
+          <attvalue for="1" value="UcrÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="1749" source="Rapid Wien" target="HJK" weight="3">
@@ -10401,17 +10401,17 @@
       </edge>
       <edge id="1756" source="Hajduk Split" target="Dnipro" weight="3">
         <attvalues>
-          <attvalue for="1" value="UcrÃ¡nia" />
+          <attvalue for="1" value="UcrÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="1757" source="Hajduk Split" target="Liberec" weight="4">
         <attvalues>
-          <attvalue for="1" value="Rep. Checa" />
+          <attvalue for="1" value="RepÃºblica Checa" />
         </attvalues>
       </edge>
       <edge id="1758" source="Hajduk Split" target="Dila" weight="4">
         <attvalues>
-          <attvalue for="1" value="Georgia" />
+          <attvalue for="1" value="GeÃ³rgia" />
         </attvalues>
       </edge>
       <edge id="1759" source="Hajduk Split" target="M. Tel-Aviv" weight="2">
@@ -10461,12 +10461,12 @@
       </edge>
       <edge id="1768" source="Dynamo Kyiv" target="Young Boys" weight="3">
         <attvalues>
-          <attvalue for="1" value="SuiÃ§a" />
+          <attvalue for="1" value="SuÃ­Ã§a" />
         </attvalues>
       </edge>
       <edge id="1769" source="Dynamo Kyiv" target="Skënderbeu" weight="2">
         <attvalues>
-          <attvalue for="1" value="AlbÃ¡nia" />
+          <attvalue for="1" value="AlbÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="1770" source="Dynamo Kyiv" target="Marítimo" weight="1">
@@ -10551,7 +10551,7 @@
       </edge>
       <edge id="1786" source="Chornomorets Odesa" target="Skënderbeu" weight="2">
         <attvalues>
-          <attvalue for="1" value="AlbÃ¡nia" />
+          <attvalue for="1" value="AlbÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="1787" source="Chornomorets Odesa" target="Lyon" weight="3">
@@ -10586,7 +10586,7 @@
       </edge>
       <edge id="1793" source="Pandurii" target="Dnipro" weight="4">
         <attvalues>
-          <attvalue for="1" value="UcrÃ¡nia" />
+          <attvalue for="1" value="UcrÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="1794" source="Pandurii" target="Fiorentina" weight="4">
@@ -10596,7 +10596,7 @@
       </edge>
       <edge id="1795" source="Austria Wien" target="Plzeň" weight="3">
         <attvalues>
-          <attvalue for="1" value="Rep. Checa" />
+          <attvalue for="1" value="RepÃºblica Checa" />
         </attvalues>
       </edge>
       <edge id="1796" source="Austria Wien" target="Porto" weight="3">
@@ -10666,7 +10666,7 @@
       </edge>
       <edge id="1809" source="Željezničar" target="Plzeň" weight="4">
         <attvalues>
-          <attvalue for="1" value="Rep. Checa" />
+          <attvalue for="1" value="RepÃºblica Checa" />
         </attvalues>
       </edge>
       <edge id="1810" source="Željezničar" target="Standard Liège" weight="4">
@@ -10706,12 +10706,12 @@
       </edge>
       <edge id="1817" source="Zwolle" target="Sparta Praha" weight="3">
         <attvalues>
-          <attvalue for="1" value="Rep. Checa" />
+          <attvalue for="1" value="RepÃºblica Checa" />
         </attvalues>
       </edge>
       <edge id="1818" source="Vaduz" target="Thun" weight="2">
         <attvalues>
-          <attvalue for="1" value="SuiÃ§a" />
+          <attvalue for="1" value="SuÃ­Ã§a" />
         </attvalues>
       </edge>
       <edge id="1819" source="Metalurg Skopje" target="Omonia" weight="2">
@@ -10731,7 +10731,7 @@
       </edge>
       <edge id="1822" source="Fiorentina" target="Dynamo Kyiv" weight="1">
         <attvalues>
-          <attvalue for="1" value="UcrÃ¡nia" />
+          <attvalue for="1" value="UcrÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="1823" source="Fiorentina" target="Lech" weight="2">
@@ -10746,7 +10746,7 @@
       </edge>
       <edge id="1825" source="Fiorentina" target="Basel" weight="3">
         <attvalues>
-          <attvalue for="1" value="SuiÃ§a" />
+          <attvalue for="1" value="SuÃ­Ã§a" />
         </attvalues>
       </edge>
       <edge id="1826" source="Fiorentina" target="Esbjerg" weight="1">
@@ -10786,7 +10786,7 @@
       </edge>
       <edge id="1833" source="Fiorentina" target="Grasshoppers" weight="2">
         <attvalues>
-          <attvalue for="1" value="SuiÃ§a" />
+          <attvalue for="1" value="SuÃ­Ã§a" />
         </attvalues>
       </edge>
       <edge id="1834" source="Barcelona" target="Juventus" weight="4">
@@ -10921,7 +10921,7 @@
       </edge>
       <edge id="1860" source="Admira" target="Liberec" weight="4">
         <attvalues>
-          <attvalue for="1" value="Rep. Checa" />
+          <attvalue for="1" value="RepÃºblica Checa" />
         </attvalues>
       </edge>
       <edge id="1861" source="Internazionale" target="Southampton" weight="2">
@@ -10946,7 +10946,7 @@
       </edge>
       <edge id="1865" source="Internazionale" target="Sparta Praha" weight="2">
         <attvalues>
-          <attvalue for="1" value="Rep. Checa" />
+          <attvalue for="1" value="RepÃºblica Checa" />
         </attvalues>
       </edge>
       <edge id="1866" source="Internazionale" target="Qarabağ" weight="1">
@@ -10961,7 +10961,7 @@
       </edge>
       <edge id="1868" source="Strømsgodset" target="Jablonec" weight="2">
         <attvalues>
-          <attvalue for="1" value="Rep. Checa" />
+          <attvalue for="1" value="RepÃºblica Checa" />
         </attvalues>
       </edge>
       <edge id="1869" source="Strømsgodset" target="FCSB" weight="4">
@@ -10986,7 +10986,7 @@
       </edge>
       <edge id="1873" source="AZ" target="Liberec" weight="1">
         <attvalues>
-          <attvalue for="1" value="Rep. Checa" />
+          <attvalue for="1" value="RepÃºblica Checa" />
         </attvalues>
       </edge>
       <edge id="1874" source="AZ" target="Athletic" weight="1">
@@ -11016,7 +11016,7 @@
       </edge>
       <edge id="1879" source="AZ" target="Dundalk" weight="1">
         <attvalues>
-          <attvalue for="1" value="Irlanda" />
+          <attvalue for="1" value="RepÃºblica da Irlanda" />
         </attvalues>
       </edge>
       <edge id="1880" source="AZ" target="Atromitos" weight="2">
@@ -11051,7 +11051,7 @@
       </edge>
       <edge id="1886" source="Mladá Boleslav" target="Skënderbeu" weight="2">
         <attvalues>
-          <attvalue for="1" value="AlbÃ¡nia" />
+          <attvalue for="1" value="AlbÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="1887" source="Mladá Boleslav" target="Lyon" weight="2">
@@ -11061,7 +11061,7 @@
       </edge>
       <edge id="1888" source="Mladá Boleslav" target="Shkëndija" weight="2">
         <attvalues>
-          <attvalue for="1" value="MacedÃ³nia" />
+          <attvalue for="1" value="ARJ MacedÃ³nia" />
         </attvalues>
       </edge>
       <edge id="1889" source="Mariehamn" target="Legia" weight="4">
@@ -11106,7 +11106,7 @@
       </edge>
       <edge id="1897" source="LOSC" target="Grasshoppers" weight="1">
         <attvalues>
-          <attvalue for="1" value="SuiÃ§a" />
+          <attvalue for="1" value="SuÃ­Ã§a" />
         </attvalues>
       </edge>
       <edge id="1898" source="København" target="Sheriff" weight="1">
@@ -11131,12 +11131,12 @@
       </edge>
       <edge id="1902" source="København" target="Vardar" weight="2">
         <attvalues>
-          <attvalue for="1" value="MacedÃ³nia" />
+          <attvalue for="1" value="ARJ MacedÃ³nia" />
         </attvalues>
       </edge>
       <edge id="1903" source="København" target="Zlín" weight="1">
         <attvalues>
-          <attvalue for="1" value="Rep. Checa" />
+          <attvalue for="1" value="RepÃºblica Checa" />
         </attvalues>
       </edge>
       <edge id="1904" source="København" target="Ludogorets" weight="1">
@@ -11146,12 +11146,12 @@
       </edge>
       <edge id="1905" source="København" target="Dnipro" weight="1">
         <attvalues>
-          <attvalue for="1" value="UcrÃ¡nia" />
+          <attvalue for="1" value="UcrÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="1906" source="København" target="Jablonec" weight="2">
         <attvalues>
-          <attvalue for="1" value="Rep. Checa" />
+          <attvalue for="1" value="RepÃºblica Checa" />
         </attvalues>
       </edge>
       <edge id="1907" source="København" target="Ajax" weight="2">
@@ -11326,7 +11326,7 @@
       </edge>
       <edge id="1941" source="Hertha" target="Zorya" weight="2">
         <attvalues>
-          <attvalue for="1" value="UcrÃ¡nia" />
+          <attvalue for="1" value="UcrÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="1942" source="Hertha" target="Östersund" weight="3">
@@ -11361,7 +11361,7 @@
       </edge>
       <edge id="1948" source="Konyaspor" target="Shakhtar Donetsk" weight="4">
         <attvalues>
-          <attvalue for="1" value="UcrÃ¡nia" />
+          <attvalue for="1" value="UcrÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="1949" source="Konyaspor" target="Marseille" weight="3">
@@ -11371,7 +11371,7 @@
       </edge>
       <edge id="1950" source="Villarreal" target="Plzeň" weight="1">
         <attvalues>
-          <attvalue for="1" value="Rep. Checa" />
+          <attvalue for="1" value="RepÃºblica Checa" />
         </attvalues>
       </edge>
       <edge id="1951" source="Villarreal" target="Lyon" weight="4">
@@ -11401,12 +11401,12 @@
       </edge>
       <edge id="1956" source="Villarreal" target="Slavia Praha" weight="1">
         <attvalues>
-          <attvalue for="1" value="Rep. Checa" />
+          <attvalue for="1" value="RepÃºblica Checa" />
         </attvalues>
       </edge>
       <edge id="1957" source="Villarreal" target="Zürich" weight="3">
         <attvalues>
-          <attvalue for="1" value="SuiÃ§a" />
+          <attvalue for="1" value="SuÃ­Ã§a" />
         </attvalues>
       </edge>
       <edge id="1958" source="Villarreal" target="Sevilla" weight="4">
@@ -11471,7 +11471,7 @@
       </edge>
       <edge id="1970" source="Apollon" target="Zürich" weight="2">
         <attvalues>
-          <attvalue for="1" value="SuiÃ§a" />
+          <attvalue for="1" value="SuÃ­Ã§a" />
         </attvalues>
       </edge>
       <edge id="1971" source="Apollon" target="Legia" weight="2">
@@ -11501,7 +11501,7 @@
       </edge>
       <edge id="1976" source="Apollon" target="Grasshoppers" weight="3">
         <attvalues>
-          <attvalue for="1" value="SuiÃ§a" />
+          <attvalue for="1" value="SuÃ­Ã§a" />
         </attvalues>
       </edge>
       <edge id="1977" source="Apollon" target="Aberdeen" weight="2">
@@ -11521,7 +11521,7 @@
       </edge>
       <edge id="1980" source="Ferencváros" target="Partizani" weight="2">
         <attvalues>
-          <attvalue for="1" value="AlbÃ¡nia" />
+          <attvalue for="1" value="AlbÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="1981" source="Dinamo Moskva" target="Anderlecht" weight="1">
@@ -11551,7 +11551,7 @@
       </edge>
       <edge id="1986" source="Feyenoord" target="Shakhtar Donetsk" weight="4">
         <attvalues>
-          <attvalue for="1" value="UcrÃ¡nia" />
+          <attvalue for="1" value="UcrÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="1987" source="Feyenoord" target="Beşiktaş" weight="4">
@@ -11591,7 +11591,7 @@
       </edge>
       <edge id="1994" source="Feyenoord" target="Zorya" weight="2">
         <attvalues>
-          <attvalue for="1" value="UcrÃ¡nia" />
+          <attvalue for="1" value="UcrÃ¢nia" />
         </attvalues>
       </edge>
       <edge id="1995" source="Asteras" target="Beşiktaş" weight="2">
@@ -11606,7 +11606,7 @@
       </edge>
       <edge id="1997" source="Asteras" target="Sparta Praha" weight="3">
         <attvalues>
-          <attvalue for="1" value="Rep. Checa" />
+          <attvalue for="1" value="RepÃºblica Checa" />
         </attvalues>
       </edge>
       <edge id="1998" source="Asteras" target="Rapid Wien" weight="2">
@@ -11636,12 +11636,12 @@
       </edge>
       <edge id="2003" source="Levadia" target="Crusaders" weight="2">
         <attvalues>
-          <attvalue for="1" value="Irl. Norte" />
+          <attvalue for="1" value="Irlanda do Norte" />
         </attvalues>
       </edge>
       <edge id="2004" source="Levadia" target="Sparta Praha" weight="3">
         <attvalues>
-          <attvalue for="1" value="Rep. Checa" />
+          <attvalue for="1" value="RepÃºblica Checa" />
         </attvalues>
       </edge>
       <edge id="2005" source="APOEL" target="Paris" weight="4">
@@ -11656,12 +11656,12 @@
       </edge>
       <edge id="2007" source="APOEL" target="Slavia Praha" weight="1">
         <attvalues>
-          <attvalue for="1" value="Rep. Checa" />
+          <attvalue for="1" value="RepÃºblica Checa" />
         </attvalues>
       </edge>
       <edge id="2008" source="APOEL" target="Vardar" weight="2">
         <attvalues>
-          <attvalue for="1" value="MacedÃ³nia" />
+          <attvalue for="1" value="ARJ MacedÃ³nia" />
         </attvalues>
       </edge>
       <edge id="2009" source="APOEL" target="Rosenborg" weight="2">
@@ -11676,7 +11676,7 @@
       </edge>
       <edge id="2011" source="APOEL" target="Young Boys" weight="2">
         <attvalues>
-          <attvalue for="1" value="SuiÃ§a" />
+          <attvalue for="1" value="SuÃ­Ã§a" />
         </attvalues>
       </edge>
       <edge id="2012" source="APOEL" target="Real Madrid" weight="4">
@@ -11706,7 +11706,7 @@
       </edge>
       <edge id="2017" source="APOEL" target="TNS" weight="1">
         <attvalues>
-          <attvalue for="1" value="P. Gales" />
+          <attvalue for="1" value="PaÃ­s de Gales" />
         </attvalues>
       </edge>
       <edge id="2018" source="APOEL" target="Barcelona" weight="4">
@@ -11761,7 +11761,7 @@
       </edge>
       <edge id="2028" source="APOEL" target="Sparta Praha" weight="4">
         <attvalues>
-          <attvalue for="1" value="Rep. Checa" />
+          <attvalue for="1" value="RepÃºblica Checa" />
         </attvalues>
       </edge>
       <edge id="2029" source="APOEL" target="Maribor" weight="2">
@@ -11786,7 +11786,7 @@
       </edge>
       <edge id="2033" source="B36" target="TNS" weight="4">
         <attvalues>
-          <attvalue for="1" value="P. Gales" />
+          <attvalue for="1" value="PaÃ­s de Gales" />
         </attvalues>
       </edge>
       <edge id="2034" source="Giannina" target="AZ" weight="4">

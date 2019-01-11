@@ -1,56 +1,56 @@
-Country;Score
-Irlanda;0.00709439
-Macedónia;0.01409154
-Sérvia;0.04073584
-Holanda;0.17146686
-San Marino;0.00007620
-Suécia;0.04494605
-Malta;0.00284140
-Andorra;0.00013438
-Escócia;0.05645714
-Georgia;0.00164204
-Gibraltar;0.00327529
-Arménia;0.00353708
-Turquia;0.21923045
-Espanha;1.40212125
-Israel;0.06335153
-Letónia;0.00198081
-Azerbaijão;0.05653494
-Rep. Checa;0.11300521
-França;0.46751466
-Ucránia;0.20953027
-Montenegro;0.00232127
-P. Gales;0.00131359
-Islândia;0.00141687
-Eslovénia;0.03482128
-Faroé;0.00031224
-Bielorrússia;0.03559193
-Hungria;0.00442896
-Polónia;0.04238407
-Lituánia;0.00698367
-Bélgica;0.16331416
-Inglaterra;0.85224696
-Estónia;0.00201098
-Suiça;0.17193851
-Itália;0.68436224
-Chipre;0.06292818
-Noruega;0.05285646
-Cazaquistão;0.05314940
-Áustria;0.11726061
-Irl. Norte;0.00091316
-Roménia;0.06792372
-Croácia;0.05661089
-Bulgária;0.05069995
-Eslováquia;0.01909274
-Albánia;0.01498520
-Luxemburgo;0.00403281
-Portugal;0.37170251
-Kosovo;0.00000000
-Liechtenstein;0.00021943
-Moldávia;0.01696993
-Grécia;0.16876249
-Finlândia;0.01030458
-Bosnia Herzegovina;0.00304872
-Rússia;0.31107814
-Alemanha;0.84611927
-Dinamarca;0.07777070
+Country;Score;Diff;Control
+Espanha;1.40212125;0;Espanha
+Inglaterra;0.85224696;0;Inglaterra
+Alemanha;0.84611927;1;Itália
+Itália;0.68436224;-1;Alemanha
+França;0.46751466;0;França
+Portugal;0.37170251;1;Rússia
+Rússia;0.31107814;-1;Portugal
+Turquia;0.21923045;2;Bélgica
+Ucrânia;0.20953027;0;Ucrânia
+Suíça;0.17193851;5;Turquia
+Holanda;0.17146686;0;Holanda
+Grécia;0.16876249;1;Áustria
+Bélgica;0.16331416;-5;Grécia
+Áustria;0.11726061;-2;Dinamarca
+República Checa;0.11300521;1;Suíça
+Dinamarca;0.07777070;-2;República Checa
+Roménia;0.06792372;12;Croácia
+Israel;0.06335153;9;Chipre
+Chipre;0.06292818;-1;Sérvia
+Croácia;0.05661089;-3;Escócia
+Azerbaijão;0.05653494;5;Bielorrússia
+Escócia;0.05645714;-2;Suécia
+Cazaquistão;0.05314940;1;Noruega
+Noruega;0.05285646;-1;Cazaquistão
+Bulgária;0.05069995;3;Polónia
+Suécia;0.04494605;-4;Azerbaijão
+Polónia;0.04238407;-2;Israel
+Sérvia;0.04073584;-9;Bulgária
+Bielorrússia;0.03559193;-8;Roménia
+Eslovénia;0.03482128;1;Eslováquia
+Eslováquia;0.01909274;-1;Eslovénia
+Moldávia;0.01696993;3;Liechtenstein
+Albânia;0.01498520;3;Hungria
+ARJ Macedónia;0.01409154;0;ARJ Macedónia
+Finlândia;0.01030458;3;Moldávia
+República da Irlanda;0.00709439;1;Albânia
+Lituânia;0.00698367;4;República da Irlanda
+Hungria;0.00442896;-5;Finlândia
+Luxemburgo;0.00403281;4;Islândia
+Arménia;0.00353708;4;Bósnia e Herzegovina
+Gibraltar;0.00327529;10;Lituânia
+Bósnia e Herzegovina;0.00304872;-2;Letónia
+Malta;0.00284140;2;Luxemburgo
+Montenegro;0.00232127;5;Arménia
+Estónia;0.00201098;1;Malta
+Letónia;0.00198081;-4;Estónia
+Geórgia;0.00164204;0;Geórgia
+Islândia;0.00141687;-9;País de Gales
+País de Gales;0.00131359;-1;Montenegro
+Irlanda do Norte;0.00091316;2;Ilhas Faroé
+Ilhas Faroé;0.00031224;-1;Gibraltar
+Liechtenstein;0.00021943;-20;Irlanda do Norte
+Andorra;0.00013438;1;Kosovo
+San Marino;0.00007620;1;Andorra
+Kosovo;0.00000000;-2;San Marino
