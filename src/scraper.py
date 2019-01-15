@@ -153,20 +153,19 @@ for home, away, scoreHome, scoreAway in zip(homeClubs, awayClubs, homeScore, awa
 
 # print result in Win Loss Draw format 
 for home, away, scoreHome, scoreAway in zip(homeClubs, awayClubs, homeScore, awayScore):
-	if scoreHome > scoreAway:
-		resultsList.append["Win"]
-	elif scoreHome < scoreAway:
-		resultsList.append["Loss"]
-	elif scoreHome == scoreAway:
-		resultsList.append["Draw"]
+    if scoreHome > scoreAway:
+        resultsList.append("Win")
+    elif scoreHome < scoreAway:
+        resultsList.append("Loss")
+    else:
+        resultsList.append("Draw")
 
 # write result format to csv
 with open('results.csv', mode='wb') as results_file:
     writer = csv.writer(results_file, delimiter=";")
     writer.writerow(['Home Team', 'Away Team', 'Result'])   # Header
-    for homeClubs, awayClubs in zip(homeClubs, awayClubs, homeScore, awayScore):
-        resultsList.encode('utf-8')
-        writer.writerow([homeClubs.encode('utf-8'), awayClubs.encode('utf-8'), resultsList])
+    for homeClub, awayClub, result in zip(homeClubs, awayClubs, resultsList):
+        writer.writerow([homeClub.encode('utf-8'), awayClub.encode('utf-8'), result])
 
 # calculate weighted eigenvector centrality
 centrality = nx.eigenvector_centrality_numpy(graph, 'weight')
