@@ -26,6 +26,7 @@ awayClubs_b = []
 awayClubs = []
 homeClubsScore = []
 awayClubsScore = []
+resultsList = []
 
 tree_legacy_ranking_clubs = etree.parse("../resources/legacy_ranking_clubs.html")
 tree_legacy_ranking_countries = etree.parse("../resources/legacy_ranking_countries.html")
@@ -149,6 +150,23 @@ for home, away, scoreHome, scoreAway in zip(homeClubs, awayClubs, homeScore, awa
             graph[home][away]['weight'] += 1
         else:
             graph.add_edge(home, away, weight=1, color=club_by_country[away])
+
+# print result in Win Loss Draw format 
+for home, away, scoreHome, scoreAway in zip(homeClubs, awayClubs, homeScore, awayScore):
+	if scoreHome > scoreAway:
+		resultsList.append["Win"]
+	elif scoreHome < scoreAway:
+		resultsList.append["Loss"]
+	elif scoreHome == scoreAway:
+		resultsList.append["Draw"]
+
+# write result format to csv
+with open('results.csv', mode='wb') as results_file:
+    writer = csv.writer(results_file, delimiter=";")
+    writer.writerow(['Home Team', 'Away Team', 'Result'])   # Header
+    for homeClubs, awayClubs in zip(homeClubs, awayClubs, homeScore, awayScore):
+        resultsList.encode('utf-8')
+        writer.writerow([homeClubs.encode('utf-8'), awayClubs.encode('utf-8'), resultsList])
 
 # calculate weighted eigenvector centrality
 centrality = nx.eigenvector_centrality_numpy(graph, 'weight')
