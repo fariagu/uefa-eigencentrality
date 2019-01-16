@@ -74,9 +74,11 @@ while t < len(results):
 final = i.getRatingList()
 
 with open('elo.csv', mode='wb') as elo_file:
-    writer = csv.writer(elo_file, delimiter=";")
-    writer.writerow(['Teams', 'Elo Rating'])   # Header
-    writer.writerow(final)
+	writer = csv.writer(elo_file, delimiter=";")
+	writer.writerow(['Teams', 'Elo Rating'])   # Header
+	for elem in final:
+		print(elem[0])
+		writer.writerow([elem[0], elem[1]])
 
 #print i.getPlayerRating(clubs[0]), i.getPlayerRating("Bill")
 
