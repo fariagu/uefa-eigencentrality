@@ -49,7 +49,7 @@ i = Implementation()
 
 x=0
 while x < len(clubs):
-	i.addPlayer(clubs[x],rating=float(rating[x])*10000)
+	i.addPlayer(clubs[x],rating=1500)
 	x +=1
 
 t=0
@@ -73,7 +73,7 @@ while t < len(results):
 
 final = i.getRatingList()
 
-with open('elo.csv', mode='wb') as elo_file:
+with open('elodefault1500.csv', mode='wb') as elo_file:
 	writer = csv.writer(elo_file, delimiter=";")
 	writer.writerow(['Teams', 'Elo Rating'])   # Header
 	for elem in final:
