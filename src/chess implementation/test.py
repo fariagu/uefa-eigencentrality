@@ -10,6 +10,7 @@ results = []
 rating = []
 hometeam = []
 awayteam = []
+final = []
 csv_file = "../ranking_clubs.csv"
 results_file = "../results.csv"
 
@@ -48,29 +49,44 @@ i = Implementation()
 
 x=0
 while x < len(clubs):
-	i.addPlayer(clubs[x],rating=float(rating[x]))
+	i.addPlayer(clubs[x],rating=float(rating[x])*10000)
 	x +=1
 
-i.addPlayer("Hank") #default ranking is 1000
-i.addPlayer("Bill",rating=900)
+t=0
+o=0
+
+while t < len(results):
+	if results[t] == 'Draw':
+		i.recordMatch(hometeam[o],awayteam[o],draw=True)
+		o+=1
+		t+=1
+	elif results[t] == 'Win':
+		i.recordMatch(hometeam[o],awayteam[o],winner=hometeam[o])
+		o+=1
+		t+=1
+	elif results[t] == 'Loss':
+		i.recordMatch(hometeam[o],awayteam[o],winner=awayteam[o])
+		o+=1
+		t+=1
+	else:
+		break
+
+final = i.getRatingList()
+
+with open('elo.csv', mode='wb') as elo_file:
+    writer = csv.writer(elo_file, delimiter=";")
+    writer.writerow(['Teams', 'Elo Rating'])   # Header
+    writer.writerow(final)
 
 #print i.getPlayerRating(clubs[0]), i.getPlayerRating("Bill")
 
-#i.recordMatch("Hank","Bill",winner="Hank")
-
-#print i.getRatingList()
-
-#i.recordMatch("Hank","Bill",winner="Bill")
-
-#print i.getRatingList()
 
 #i.recordMatch(clubs[0],"Bill",draw=True)
-
+"""
 y=0
 w=0
 z=0
-t=0
-o=0
+
 
 
 while y < len(results)-10:
@@ -140,3 +156,4 @@ print w
 print z
 
 print i.getRatingList()
+"""
